@@ -1,0 +1,901 @@
+Date,Product_Name,Category,Sub_category,Price,Discount,Sales_d,Revenue_d,M_Spend,Rating,Supply_Chain_E,Market_T,Seasonality_T,Success_Percentage
+2025-01-01,Air Fryer Pro,Kitchen,Appliances,1660,10,57,85158,8265,3.7,70,50,53,56
+2025-01-01,Yoga Mat Plus,Sports,Fitness,4244,15,70,252518,10322,3.5,61,63,73,70
+2025-01-01,Smart Watch Neo,Electronics,Wearables,3233,15,41,112670,8396,4.1,86,81,57,41
+2025-01-01,Blender Max,Kitchen,Appliances,3547,10,36,114922,3899,4.2,62,76,80,36
+2025-01-01,Running Shoes X,Footwear,Sportswear,1446,20,45,52056,10792,4.8,68,65,82,45
+2025-01-01,Coffee Maker Lite,Kitchen,Appliances,2163,15,49,90088,7486,4.4,67,86,64,49
+2025-01-01,LED Desk Lamp,Home,Lighting,3952,15,58,194833,3021,4.2,63,68,47,57
+2025-01-01,Gaming Headset Z,Electronics,Accessories,961,5,39,35605,2995,4.3,74,47,43,39
+2025-01-01,Water Bottle Steel,Sports,Hydration,4598,15,48,187598,8863,4.5,83,65,54,48
+2025-01-01,Wireless Mouse Pro,Electronics,Computing,5659,15,45,216456,10571,3.9,88,54,74,45
+2025-01-02,Air Fryer Pro,Kitchen,Appliances,864,0,58,50112,7892,4.7,87,46,38,57
+2025-01-02,Yoga Mat Plus,Sports,Fitness,5675,5,63,339648,5104,3.6,82,63,66,63
+2025-01-02,Smart Watch Neo,Electronics,Wearables,3531,10,19,60380,10110,4.4,60,44,55,19
+2025-01-02,Blender Max,Kitchen,Appliances,1302,10,66,77338,6488,4.4,85,81,42,66
+2025-01-02,Running Shoes X,Footwear,Sportswear,1663,0,51,84813,3757,3.7,74,82,58,51
+2025-01-02,Coffee Maker Lite,Kitchen,Appliances,1859,20,20,29744,11914,4.4,87,41,71,20
+2025-01-02,LED Desk Lamp,Home,Lighting,2397,0,48,115056,5627,4.0,70,67,54,48
+2025-01-02,Gaming Headset Z,Electronics,Accessories,4102,0,35,143570,3306,4.1,72,80,32,35
+2025-01-02,Water Bottle Steel,Sports,Hydration,1509,10,28,38026,2663,4.7,91,71,53,28
+2025-01-02,Wireless Mouse Pro,Electronics,Computing,4104,15,43,150001,7232,3.6,71,78,31,43
+2025-01-03,Air Fryer Pro,Kitchen,Appliances,2436,0,49,119364,2854,3.9,92,40,48,49
+2025-01-03,Yoga Mat Plus,Sports,Fitness,5972,15,55,279191,7791,4.2,63,50,46,55
+2025-01-03,Smart Watch Neo,Electronics,Wearables,1566,20,71,88948,3930,4.6,75,72,38,71
+2025-01-03,Blender Max,Kitchen,Appliances,1947,10,70,122661,4511,3.6,79,75,48,70
+2025-01-03,Running Shoes X,Footwear,Sportswear,2169,10,41,80036,3734,3.7,92,79,68,41
+2025-01-03,Coffee Maker Lite,Kitchen,Appliances,3185,0,66,210210,3802,3.9,84,89,52,66
+2025-01-03,LED Desk Lamp,Home,Lighting,4861,5,62,286312,10815,4.2,61,40,77,62
+2025-01-03,Gaming Headset Z,Electronics,Accessories,4523,20,31,112170,5108,4.6,68,80,64,31
+2025-01-03,Water Bottle Steel,Sports,Hydration,2482,10,45,100521,11888,4.3,70,88,37,45
+2025-01-03,Wireless Mouse Pro,Electronics,Computing,2245,15,65,124036,10445,3.5,84,74,54,65
+2025-01-04,Air Fryer Pro,Kitchen,Appliances,3761,5,6,21437,2956,3.8,92,43,62,6
+2025-01-04,Yoga Mat Plus,Sports,Fitness,5293,20,37,156672,6911,4.5,67,46,32,37
+2025-01-04,Smart Watch Neo,Electronics,Wearables,5296,0,59,312464,5446,3.8,89,77,67,59
+2025-01-04,Blender Max,Kitchen,Appliances,4236,10,95,362178,7895,4.3,93,60,59,95
+2025-01-04,Running Shoes X,Footwear,Sportswear,1759,0,59,103781,9683,3.5,76,83,57,59
+2025-01-04,Coffee Maker Lite,Kitchen,Appliances,3005,20,37,88948,3069,4.7,94,80,66,37
+2025-01-04,LED Desk Lamp,Home,Lighting,3127,20,57,142591,5170,4.8,80,71,52,56
+2025-01-04,Gaming Headset Z,Electronics,Accessories,1984,10,48,85708,10319,4.0,90,42,69,48
+2025-01-04,Water Bottle Steel,Sports,Hydration,3533,5,50,167817,3409,3.9,92,48,72,50
+2025-01-04,Wireless Mouse Pro,Electronics,Computing,5141,20,32,131609,7801,4.6,94,89,54,32
+2025-01-05,Air Fryer Pro,Kitchen,Appliances,3255,20,32,83328,8655,4.0,73,51,80,32
+2025-01-05,Yoga Mat Plus,Sports,Fitness,1966,15,57,95252,7919,4.3,81,64,51,56
+2025-01-05,Smart Watch Neo,Electronics,Wearables,2515,5,42,100348,4491,3.9,67,83,73,42
+2025-01-05,Blender Max,Kitchen,Appliances,804,15,66,45104,6869,3.6,89,86,64,66
+2025-01-05,Running Shoes X,Footwear,Sportswear,5164,5,19,93210,6752,4.0,78,67,84,19
+2025-01-05,Coffee Maker Lite,Kitchen,Appliances,2169,20,52,90230,10308,3.6,68,51,82,52
+2025-01-05,LED Desk Lamp,Home,Lighting,2464,5,48,112358,9805,3.6,84,79,74,48
+2025-01-05,Gaming Headset Z,Electronics,Accessories,5792,20,62,287283,6070,4.4,64,61,58,62
+2025-01-05,Water Bottle Steel,Sports,Hydration,3094,10,39,108599,9253,3.5,73,67,34,39
+2025-01-05,Wireless Mouse Pro,Electronics,Computing,3918,0,30,117540,4141,4.6,64,51,45,30
+2025-01-06,Air Fryer Pro,Kitchen,Appliances,3065,5,5,14558,9421,4.1,82,49,83,5
+2025-01-06,Yoga Mat Plus,Sports,Fitness,3649,15,34,105456,9390,3.5,78,71,30,34
+2025-01-06,Smart Watch Neo,Electronics,Wearables,1815,20,64,92928,10527,4.3,87,71,56,64
+2025-01-06,Blender Max,Kitchen,Appliances,1651,15,73,102444,8833,4.2,92,72,80,73
+2025-01-06,Running Shoes X,Footwear,Sportswear,4298,20,67,230372,5913,3.8,88,52,41,67
+2025-01-06,Coffee Maker Lite,Kitchen,Appliances,4173,5,56,222003,10945,4.4,76,65,37,56
+2025-01-06,LED Desk Lamp,Home,Lighting,2425,5,49,112883,2825,4.4,70,68,65,49
+2025-01-06,Gaming Headset Z,Electronics,Accessories,1528,20,24,29337,9164,3.9,69,76,38,24
+2025-01-06,Water Bottle Steel,Sports,Hydration,3767,10,49,166124,7073,3.8,91,63,52,49
+2025-01-06,Wireless Mouse Pro,Electronics,Computing,4932,15,51,213802,5440,4.4,82,64,64,51
+2025-01-07,Air Fryer Pro,Kitchen,Appliances,5768,0,45,259560,2728,3.9,78,88,65,45
+2025-01-07,Yoga Mat Plus,Sports,Fitness,1195,20,98,93688,9400,4.6,68,46,57,98
+2025-01-07,Smart Watch Neo,Electronics,Wearables,1517,15,78,100577,6980,3.6,71,64,81,78
+2025-01-07,Blender Max,Kitchen,Appliances,3738,20,65,194376,9651,4.7,75,78,74,65
+2025-01-07,Running Shoes X,Footwear,Sportswear,5961,5,51,288810,11348,4.5,88,82,40,51
+2025-01-07,Coffee Maker Lite,Kitchen,Appliances,5646,15,39,187164,9241,4.6,76,77,36,39
+2025-01-07,LED Desk Lamp,Home,Lighting,1991,5,63,119161,11409,3.6,78,47,77,63
+2025-01-07,Gaming Headset Z,Electronics,Accessories,2188,0,46,100648,3365,4.6,66,64,74,46
+2025-01-07,Water Bottle Steel,Sports,Hydration,1955,15,39,64808,8588,4.0,86,49,55,39
+2025-01-07,Wireless Mouse Pro,Electronics,Computing,4402,10,46,182242,6268,3.5,87,59,57,46
+2025-01-08,Air Fryer Pro,Kitchen,Appliances,1255,20,58,58232,8530,4.3,84,72,67,57
+2025-01-08,Yoga Mat Plus,Sports,Fitness,933,5,60,53181,5627,4.8,80,55,83,60
+2025-01-08,Smart Watch Neo,Electronics,Wearables,4084,10,47,172753,8190,4.3,73,54,60,47
+2025-01-08,Blender Max,Kitchen,Appliances,4384,20,54,189388,10053,4.0,82,50,41,54
+2025-01-08,Running Shoes X,Footwear,Sportswear,2153,15,45,82352,11337,3.7,85,47,79,45
+2025-01-08,Coffee Maker Lite,Kitchen,Appliances,1339,15,38,43249,6964,4.8,86,56,38,38
+2025-01-08,LED Desk Lamp,Home,Lighting,5824,20,58,270233,2924,3.7,94,45,47,57
+2025-01-08,Gaming Headset Z,Electronics,Accessories,1055,20,64,54016,3838,4.7,69,69,79,64
+2025-01-08,Water Bottle Steel,Sports,Hydration,5772,20,48,221644,4193,4.8,70,60,55,48
+2025-01-08,Wireless Mouse Pro,Electronics,Computing,4958,0,45,223110,5925,4.6,72,72,63,45
+2025-01-09,Air Fryer Pro,Kitchen,Appliances,2952,10,53,140810,11860,4.8,82,76,82,53
+2025-01-09,Yoga Mat Plus,Sports,Fitness,3524,5,42,140607,6178,3.8,73,48,75,42
+2025-01-09,Smart Watch Neo,Electronics,Wearables,2848,10,36,92275,6544,4.4,91,73,57,36
+2025-01-09,Blender Max,Kitchen,Appliances,2374,5,39,87956,2249,4.2,62,89,41,39
+2025-01-09,Running Shoes X,Footwear,Sportswear,2784,15,65,153816,8544,3.7,82,54,66,65
+2025-01-09,Coffee Maker Lite,Kitchen,Appliances,4781,5,52,236181,6530,4.7,93,77,79,52
+2025-01-09,LED Desk Lamp,Home,Lighting,2158,10,53,102936,6261,4.1,74,69,84,53
+2025-01-09,Gaming Headset Z,Electronics,Accessories,3977,10,43,153909,4180,4.5,69,56,39,43
+2025-01-09,Water Bottle Steel,Sports,Hydration,3632,15,27,83354,8269,4.3,70,86,52,27
+2025-01-09,Wireless Mouse Pro,Electronics,Computing,4245,15,68,245361,11911,4.0,91,42,56,68
+2025-01-10,Air Fryer Pro,Kitchen,Appliances,4988,5,29,137419,9956,3.7,87,81,51,28
+2025-01-10,Yoga Mat Plus,Sports,Fitness,1323,5,57,71640,4593,3.7,85,84,56,56
+2025-01-10,Smart Watch Neo,Electronics,Wearables,3096,0,51,157896,4878,4.0,76,65,65,51
+2025-01-10,Blender Max,Kitchen,Appliances,2855,0,79,225545,3276,4.8,81,53,55,79
+2025-01-10,Running Shoes X,Footwear,Sportswear,4923,5,62,289964,3646,4.6,77,77,64,62
+2025-01-10,Coffee Maker Lite,Kitchen,Appliances,2706,0,35,94710,7750,4.0,69,78,46,35
+2025-01-10,LED Desk Lamp,Home,Lighting,925,15,39,30663,8168,4.4,62,80,74,39
+2025-01-10,Gaming Headset Z,Electronics,Accessories,1969,15,32,53556,6206,4.5,67,79,78,32
+2025-01-10,Water Bottle Steel,Sports,Hydration,3272,20,70,183232,3761,3.8,65,76,62,70
+2025-01-10,Wireless Mouse Pro,Electronics,Computing,2260,20,30,54240,3733,4.0,63,69,40,30
+2025-01-11,Air Fryer Pro,Kitchen,Appliances,4317,0,50,215850,3063,4.4,83,70,35,50
+2025-01-11,Yoga Mat Plus,Sports,Fitness,1267,15,37,39847,10195,3.5,89,77,80,37
+2025-01-11,Smart Watch Neo,Electronics,Wearables,5089,10,24,109922,8469,4.8,63,58,49,24
+2025-01-11,Blender Max,Kitchen,Appliances,1024,15,58,50483,6208,4.2,60,65,43,57
+2025-01-11,Running Shoes X,Footwear,Sportswear,5215,20,61,254492,8988,4.2,92,45,79,61
+2025-01-11,Coffee Maker Lite,Kitchen,Appliances,2839,5,50,134852,2260,3.6,61,52,69,50
+2025-01-11,LED Desk Lamp,Home,Lighting,4513,15,62,237835,4832,3.7,74,63,67,62
+2025-01-11,Gaming Headset Z,Electronics,Accessories,2838,10,33,84288,11310,4.7,73,50,38,33
+2025-01-11,Water Bottle Steel,Sports,Hydration,3435,10,51,157666,7951,4.5,70,80,66,51
+2025-01-11,Wireless Mouse Pro,Electronics,Computing,2114,20,47,79486,4898,4.4,85,43,54,47
+2025-01-12,Air Fryer Pro,Kitchen,Appliances,1865,0,42,78330,8943,4.1,92,62,44,42
+2025-01-12,Yoga Mat Plus,Sports,Fitness,1792,0,78,139776,4192,4.7,61,53,82,78
+2025-01-12,Smart Watch Neo,Electronics,Wearables,4487,10,15,60574,3202,3.9,74,86,58,15
+2025-01-12,Blender Max,Kitchen,Appliances,2835,10,71,181156,2419,4.8,92,76,56,71
+2025-01-12,Running Shoes X,Footwear,Sportswear,1750,0,51,89250,6612,4.6,92,77,42,51
+2025-01-12,Coffee Maker Lite,Kitchen,Appliances,5710,15,42,203847,8359,4.3,74,68,37,42
+2025-01-12,LED Desk Lamp,Home,Lighting,4028,15,64,219123,2094,4.3,85,82,56,64
+2025-01-12,Gaming Headset Z,Electronics,Accessories,2916,15,64,158630,8166,4.1,71,65,42,64
+2025-01-12,Water Bottle Steel,Sports,Hydration,3805,5,46,166278,2827,4.3,63,44,66,46
+2025-01-12,Wireless Mouse Pro,Electronics,Computing,926,5,50,43985,10795,4.0,68,68,43,50
+2025-01-13,Air Fryer Pro,Kitchen,Appliances,4167,0,48,200016,7732,4.8,82,40,83,48
+2025-01-13,Yoga Mat Plus,Sports,Fitness,5462,10,61,299863,7031,4.3,68,48,39,61
+2025-01-13,Smart Watch Neo,Electronics,Wearables,4307,0,62,267034,9973,4.0,77,66,63,62
+2025-01-13,Blender Max,Kitchen,Appliances,4400,10,15,59400,11146,4.1,83,64,36,15
+2025-01-13,Running Shoes X,Footwear,Sportswear,5605,20,46,206264,6757,3.8,80,88,36,46
+2025-01-13,Coffee Maker Lite,Kitchen,Appliances,5744,15,60,292944,5432,3.7,81,67,69,60
+2025-01-13,LED Desk Lamp,Home,Lighting,5222,0,36,187992,4482,3.8,78,71,59,36
+2025-01-13,Gaming Headset Z,Electronics,Accessories,3132,0,25,78300,6524,4.0,75,79,48,25
+2025-01-13,Water Bottle Steel,Sports,Hydration,2865,0,46,131790,8645,4.1,89,77,80,46
+2025-01-13,Wireless Mouse Pro,Electronics,Computing,5726,15,72,350431,8016,3.9,62,71,39,72
+2025-01-14,Air Fryer Pro,Kitchen,Appliances,2281,10,33,67745,2054,3.7,66,68,37,33
+2025-01-14,Yoga Mat Plus,Sports,Fitness,1632,0,76,124032,7954,3.8,67,86,66,76
+2025-01-14,Smart Watch Neo,Electronics,Wearables,4475,5,68,289085,6547,4.7,80,53,60,68
+2025-01-14,Blender Max,Kitchen,Appliances,1622,5,56,86290,8150,4.3,92,62,50,56
+2025-01-14,Running Shoes X,Footwear,Sportswear,5042,20,54,217814,6177,4.7,64,59,40,54
+2025-01-14,Coffee Maker Lite,Kitchen,Appliances,5641,5,63,337613,6566,3.5,79,44,66,63
+2025-01-14,LED Desk Lamp,Home,Lighting,5829,0,23,134067,7619,4.8,83,56,39,23
+2025-01-14,Gaming Headset Z,Electronics,Accessories,3479,10,41,128375,10173,4.1,91,56,79,41
+2025-01-14,Water Bottle Steel,Sports,Hydration,3986,0,54,215244,10428,4.0,68,61,72,54
+2025-01-14,Wireless Mouse Pro,Electronics,Computing,3341,15,24,68156,8809,4.2,93,62,66,24
+2025-01-15,Air Fryer Pro,Kitchen,Appliances,874,5,70,58121,10232,3.9,76,76,54,70
+2025-01-15,Yoga Mat Plus,Sports,Fitness,5483,20,51,223706,10041,3.7,86,70,35,51
+2025-01-15,Smart Watch Neo,Electronics,Wearables,5626,5,74,395507,10646,4.2,76,65,50,74
+2025-01-15,Blender Max,Kitchen,Appliances,5597,5,65,345614,5629,3.6,60,75,80,65
+2025-01-15,Running Shoes X,Footwear,Sportswear,5689,20,27,122882,9679,4.7,94,73,84,27
+2025-01-15,Coffee Maker Lite,Kitchen,Appliances,3511,20,38,106734,9479,3.8,79,58,64,38
+2025-01-15,LED Desk Lamp,Home,Lighting,4720,10,24,101952,2153,4.1,68,48,69,24
+2025-01-15,Gaming Headset Z,Electronics,Accessories,5936,0,64,379904,3240,4.4,84,78,64,64
+2025-01-15,Water Bottle Steel,Sports,Hydration,5026,5,59,281707,5549,3.5,71,58,66,59
+2025-01-15,Wireless Mouse Pro,Electronics,Computing,3915,10,64,225504,6090,4.8,76,49,84,64
+2025-01-16,Air Fryer Pro,Kitchen,Appliances,4907,10,62,273810,3750,4.4,75,45,37,62
+2025-01-16,Yoga Mat Plus,Sports,Fitness,4526,10,59,240330,5993,3.6,85,86,61,59
+2025-01-16,Smart Watch Neo,Electronics,Wearables,5673,0,54,306342,2390,3.5,66,48,80,54
+2025-01-16,Blender Max,Kitchen,Appliances,2321,10,30,62667,3500,4.1,89,78,64,30
+2025-01-16,Running Shoes X,Footwear,Sportswear,5297,10,28,133484,9980,3.6,85,62,73,28
+2025-01-16,Coffee Maker Lite,Kitchen,Appliances,838,0,57,47766,7468,4.4,72,57,62,56
+2025-01-16,LED Desk Lamp,Home,Lighting,4911,20,29,113935,10502,4.1,93,69,84,28
+2025-01-16,Gaming Headset Z,Electronics,Accessories,2604,20,58,120825,5810,3.6,88,88,58,57
+2025-01-16,Water Bottle Steel,Sports,Hydration,5213,20,88,366995,3771,4.8,69,69,54,88
+2025-01-16,Wireless Mouse Pro,Electronics,Computing,4230,15,40,143820,5760,3.6,73,69,79,40
+2025-01-17,Air Fryer Pro,Kitchen,Appliances,945,20,49,37044,10056,4.4,71,76,66,49
+2025-01-17,Yoga Mat Plus,Sports,Fitness,1738,15,53,78296,6805,4.8,83,50,42,53
+2025-01-17,Smart Watch Neo,Electronics,Wearables,5667,10,67,341720,7429,4.3,69,82,63,67
+2025-01-17,Blender Max,Kitchen,Appliances,1624,5,45,69426,2936,3.7,62,45,34,45
+2025-01-17,Running Shoes X,Footwear,Sportswear,2596,0,87,225852,11788,3.8,94,89,47,87
+2025-01-17,Coffee Maker Lite,Kitchen,Appliances,2909,0,57,165813,10194,4.6,72,86,54,56
+2025-01-17,LED Desk Lamp,Home,Lighting,3176,15,37,99885,3640,4.0,87,68,38,37
+2025-01-17,Gaming Headset Z,Electronics,Accessories,2018,0,52,104936,8881,4.6,68,54,69,52
+2025-01-17,Water Bottle Steel,Sports,Hydration,2360,20,36,67968,9291,4.0,67,44,77,36
+2025-01-17,Wireless Mouse Pro,Electronics,Computing,1713,20,64,87705,11903,4.4,64,52,46,64
+2025-01-18,Air Fryer Pro,Kitchen,Appliances,3911,20,87,272205,4745,4.2,93,79,56,87
+2025-01-18,Yoga Mat Plus,Sports,Fitness,2796,20,42,93945,3312,4.6,78,55,69,42
+2025-01-18,Smart Watch Neo,Electronics,Wearables,2939,0,46,135194,8924,4.6,84,81,65,46
+2025-01-18,Blender Max,Kitchen,Appliances,5086,10,45,205983,4469,3.7,64,82,74,45
+2025-01-18,Running Shoes X,Footwear,Sportswear,1625,0,44,71500,5741,4.7,77,75,31,44
+2025-01-18,Coffee Maker Lite,Kitchen,Appliances,1388,20,37,41084,11739,3.5,91,52,75,37
+2025-01-18,LED Desk Lamp,Home,Lighting,2490,0,35,87150,9009,4.3,83,84,64,35
+2025-01-18,Gaming Headset Z,Electronics,Accessories,1807,10,52,84567,7352,4.8,87,54,59,52
+2025-01-18,Water Bottle Steel,Sports,Hydration,2884,20,41,94595,3265,4.7,76,51,51,41
+2025-01-18,Wireless Mouse Pro,Electronics,Computing,1685,0,57,96045,10213,4.3,77,89,43,56
+2025-01-19,Air Fryer Pro,Kitchen,Appliances,5599,20,80,358336,7043,4.5,66,68,40,80
+2025-01-19,Yoga Mat Plus,Sports,Fitness,3904,10,38,133516,11645,4.1,63,56,64,38
+2025-01-19,Smart Watch Neo,Electronics,Wearables,838,20,34,22793,5155,4.4,86,42,46,34
+2025-01-19,Blender Max,Kitchen,Appliances,4253,15,60,216903,2988,4.7,75,76,49,60
+2025-01-19,Running Shoes X,Footwear,Sportswear,2482,0,22,54604,2933,3.8,94,88,54,22
+2025-01-19,Coffee Maker Lite,Kitchen,Appliances,1591,15,41,55446,7390,4.1,86,47,75,41
+2025-01-19,LED Desk Lamp,Home,Lighting,1784,0,74,132016,8342,4.3,83,42,49,74
+2025-01-19,Gaming Headset Z,Electronics,Accessories,1326,0,12,15912,3875,4.1,81,41,53,12
+2025-01-19,Water Bottle Steel,Sports,Hydration,1383,10,79,98331,3389,4.8,91,50,74,79
+2025-01-19,Wireless Mouse Pro,Electronics,Computing,1528,0,44,67232,4043,4.5,67,50,51,44
+2025-01-20,Air Fryer Pro,Kitchen,Appliances,4562,0,49,223538,4720,4.2,91,89,62,49
+2025-01-20,Yoga Mat Plus,Sports,Fitness,801,0,32,25632,3949,3.5,85,61,68,32
+2025-01-20,Smart Watch Neo,Electronics,Wearables,3041,5,64,184892,5041,3.6,70,42,35,64
+2025-01-20,Blender Max,Kitchen,Appliances,2856,0,59,168504,11631,3.9,71,47,37,59
+2025-01-20,Running Shoes X,Footwear,Sportswear,2513,15,41,87578,10442,4.1,70,59,45,41
+2025-01-20,Coffee Maker Lite,Kitchen,Appliances,1699,5,66,106527,2021,4.1,62,80,71,66
+2025-01-20,LED Desk Lamp,Home,Lighting,4909,10,59,260667,3560,4.6,78,85,65,59
+2025-01-20,Gaming Headset Z,Electronics,Accessories,5580,20,73,325872,4356,4.4,77,45,47,73
+2025-01-20,Water Bottle Steel,Sports,Hydration,1461,20,33,38570,8236,4.0,74,72,36,33
+2025-01-20,Wireless Mouse Pro,Electronics,Computing,4688,20,58,217523,2158,4.0,83,59,66,57
+2025-01-21,Air Fryer Pro,Kitchen,Appliances,5411,15,26,119583,7631,4.3,74,73,65,26
+2025-01-21,Yoga Mat Plus,Sports,Fitness,2597,5,80,197372,3394,3.9,71,42,74,80
+2025-01-21,Smart Watch Neo,Electronics,Wearables,1329,20,40,42528,5591,4.0,89,62,71,40
+2025-01-21,Blender Max,Kitchen,Appliances,1739,5,55,90862,2374,4.0,73,78,54,55
+2025-01-21,Running Shoes X,Footwear,Sportswear,3955,5,54,202891,10219,3.8,64,40,69,54
+2025-01-21,Coffee Maker Lite,Kitchen,Appliances,5355,15,39,177518,9062,4.1,70,49,32,39
+2025-01-21,LED Desk Lamp,Home,Lighting,1429,5,79,107246,5432,4.1,79,47,72,79
+2025-01-21,Gaming Headset Z,Electronics,Accessories,3160,15,41,110126,11499,3.5,71,76,78,41
+2025-01-21,Water Bottle Steel,Sports,Hydration,4368,15,66,245044,3925,3.8,79,89,43,66
+2025-01-21,Wireless Mouse Pro,Electronics,Computing,1768,20,47,66476,11235,3.6,60,74,35,47
+2025-01-22,Air Fryer Pro,Kitchen,Appliances,3332,20,75,199920,10467,4.8,83,82,63,75
+2025-01-22,Yoga Mat Plus,Sports,Fitness,5112,5,61,296240,11400,4.3,82,83,67,61
+2025-01-22,Smart Watch Neo,Electronics,Wearables,4723,20,39,147357,11556,3.6,67,68,61,39
+2025-01-22,Blender Max,Kitchen,Appliances,5412,5,57,293059,7238,4.7,69,69,79,56
+2025-01-22,Running Shoes X,Footwear,Sportswear,4849,0,52,252148,2986,4.7,63,72,30,52
+2025-01-22,Coffee Maker Lite,Kitchen,Appliances,3924,20,52,163238,10125,4.4,65,48,62,52
+2025-01-22,LED Desk Lamp,Home,Lighting,5583,20,55,245652,2488,3.6,93,77,75,55
+2025-01-22,Gaming Headset Z,Electronics,Accessories,2467,10,71,157641,5553,4.5,82,58,74,71
+2025-01-22,Water Bottle Steel,Sports,Hydration,4512,0,66,297792,6806,4.2,78,68,54,66
+2025-01-22,Wireless Mouse Pro,Electronics,Computing,2240,0,28,62720,10927,4.0,85,50,64,28
+2025-01-23,Air Fryer Pro,Kitchen,Appliances,3815,5,50,181212,8228,4.6,61,45,57,50
+2025-01-23,Yoga Mat Plus,Sports,Fitness,1977,0,74,146298,2011,3.7,74,83,65,74
+2025-01-23,Smart Watch Neo,Electronics,Wearables,3630,10,60,196020,8570,3.5,82,82,84,60
+2025-01-23,Blender Max,Kitchen,Appliances,5231,20,58,242718,7243,4.7,70,54,33,57
+2025-01-23,Running Shoes X,Footwear,Sportswear,5684,20,38,172793,8012,4.3,86,68,76,38
+2025-01-23,Coffee Maker Lite,Kitchen,Appliances,905,15,45,34616,11873,4.0,72,43,55,45
+2025-01-23,LED Desk Lamp,Home,Lighting,4216,10,41,155570,9102,3.6,79,43,83,41
+2025-01-23,Gaming Headset Z,Electronics,Accessories,2598,0,57,148086,7291,3.6,72,61,83,56
+2025-01-23,Water Bottle Steel,Sports,Hydration,2100,15,39,69615,2009,3.7,67,63,45,39
+2025-01-23,Wireless Mouse Pro,Electronics,Computing,1872,5,40,71136,3316,3.9,83,58,65,40
+2025-01-24,Air Fryer Pro,Kitchen,Appliances,4073,0,53,215869,5040,4.1,64,86,78,53
+2025-01-24,Yoga Mat Plus,Sports,Fitness,1282,15,38,41408,3249,4.1,80,56,51,38
+2025-01-24,Smart Watch Neo,Electronics,Wearables,4303,20,68,234083,9327,4.3,68,53,42,68
+2025-01-24,Blender Max,Kitchen,Appliances,1240,0,74,91760,2769,3.9,66,60,47,74
+2025-01-24,Running Shoes X,Footwear,Sportswear,4706,5,75,335302,8602,4.8,78,43,55,75
+2025-01-24,Coffee Maker Lite,Kitchen,Appliances,1925,5,41,74978,11382,4.5,92,75,32,41
+2025-01-24,LED Desk Lamp,Home,Lighting,872,0,40,34880,2707,4.1,61,44,73,40
+2025-01-24,Gaming Headset Z,Electronics,Accessories,4410,20,31,109368,9397,4.3,62,83,32,31
+2025-01-24,Water Bottle Steel,Sports,Hydration,1141,5,75,81296,6211,3.6,64,52,58,75
+2025-01-24,Wireless Mouse Pro,Electronics,Computing,3134,0,56,175504,2207,4.0,89,55,41,56
+2025-01-25,Air Fryer Pro,Kitchen,Appliances,5552,15,49,231240,2236,3.7,64,59,69,49
+2025-01-25,Yoga Mat Plus,Sports,Fitness,1163,0,55,63965,2285,4.2,65,61,47,55
+2025-01-25,Smart Watch Neo,Electronics,Wearables,5351,0,52,278252,11715,4.4,73,75,62,52
+2025-01-25,Blender Max,Kitchen,Appliances,2401,0,86,206486,2340,4.0,68,40,40,86
+2025-01-25,Running Shoes X,Footwear,Sportswear,5730,15,52,253266,6406,3.7,81,82,44,52
+2025-01-25,Coffee Maker Lite,Kitchen,Appliances,5237,15,48,213669,10435,3.8,77,84,64,48
+2025-01-25,LED Desk Lamp,Home,Lighting,4029,5,54,206687,9693,3.6,80,74,31,54
+2025-01-25,Gaming Headset Z,Electronics,Accessories,5025,10,54,244215,9373,4.8,69,64,31,54
+2025-01-25,Water Bottle Steel,Sports,Hydration,1592,20,86,109529,6917,4.6,62,74,70,86
+2025-01-25,Wireless Mouse Pro,Electronics,Computing,1848,20,45,66528,4529,3.6,93,43,54,45
+2025-01-26,Air Fryer Pro,Kitchen,Appliances,5023,15,50,213477,7777,3.9,65,71,58,50
+2025-01-26,Yoga Mat Plus,Sports,Fitness,4938,5,20,93822,7179,4.0,90,44,48,20
+2025-01-26,Smart Watch Neo,Electronics,Wearables,2753,5,48,125536,2689,3.6,74,48,52,48
+2025-01-26,Blender Max,Kitchen,Appliances,2930,0,27,79110,7448,4.5,66,55,45,27
+2025-01-26,Running Shoes X,Footwear,Sportswear,1408,15,30,35904,3382,3.8,88,75,67,30
+2025-01-26,Coffee Maker Lite,Kitchen,Appliances,4102,5,59,229917,11700,4.7,94,46,56,59
+2025-01-26,LED Desk Lamp,Home,Lighting,2939,20,56,131667,6481,3.7,80,77,44,56
+2025-01-26,Gaming Headset Z,Electronics,Accessories,3508,5,48,159964,9638,3.7,64,40,42,48
+2025-01-26,Water Bottle Steel,Sports,Hydration,2809,5,32,85393,6268,3.6,76,74,78,32
+2025-01-26,Wireless Mouse Pro,Electronics,Computing,5595,10,57,287023,6798,4.1,85,43,63,56
+2025-01-27,Air Fryer Pro,Kitchen,Appliances,5519,15,66,309615,11651,4.6,80,81,42,66
+2025-01-27,Yoga Mat Plus,Sports,Fitness,3472,0,57,197904,2016,4.4,60,41,77,56
+2025-01-27,Smart Watch Neo,Electronics,Wearables,1920,5,48,87552,4279,4.1,70,73,37,48
+2025-01-27,Blender Max,Kitchen,Appliances,4826,0,52,250952,2078,4.7,82,63,74,52
+2025-01-27,Running Shoes X,Footwear,Sportswear,2948,20,66,155654,9650,3.5,64,59,50,66
+2025-01-27,Coffee Maker Lite,Kitchen,Appliances,5127,5,58,282497,2365,4.8,74,58,36,57
+2025-01-27,LED Desk Lamp,Home,Lighting,3346,15,33,93855,10964,4.4,91,47,39,33
+2025-01-27,Gaming Headset Z,Electronics,Accessories,2373,15,23,46392,9504,3.9,84,48,31,23
+2025-01-27,Water Bottle Steel,Sports,Hydration,3793,10,54,184339,11805,3.6,84,89,39,54
+2025-01-27,Wireless Mouse Pro,Electronics,Computing,2996,15,36,91677,10843,4.1,61,52,82,36
+2025-01-28,Air Fryer Pro,Kitchen,Appliances,4783,15,53,215474,7784,4.0,73,64,79,53
+2025-01-28,Yoga Mat Plus,Sports,Fitness,3637,15,36,111292,4461,4.7,91,85,78,36
+2025-01-28,Smart Watch Neo,Electronics,Wearables,4788,10,31,133585,2038,4.6,77,60,42,31
+2025-01-28,Blender Max,Kitchen,Appliances,3508,15,67,199780,11951,3.7,81,61,72,67
+2025-01-28,Running Shoes X,Footwear,Sportswear,2168,15,55,101354,10474,4.8,74,62,53,55
+2025-01-28,Coffee Maker Lite,Kitchen,Appliances,5963,20,40,190816,5754,4.5,92,42,83,40
+2025-01-28,LED Desk Lamp,Home,Lighting,2866,20,52,119225,11496,4.5,67,81,45,52
+2025-01-28,Gaming Headset Z,Electronics,Accessories,2084,10,37,69397,2448,3.9,94,71,71,37
+2025-01-28,Water Bottle Steel,Sports,Hydration,4362,0,75,327150,11114,4.4,72,48,81,75
+2025-01-28,Wireless Mouse Pro,Electronics,Computing,3779,5,55,197452,4649,4.6,71,56,43,55
+2025-01-29,Air Fryer Pro,Kitchen,Appliances,1837,0,48,88176,4634,4.5,90,45,48,48
+2025-01-29,Yoga Mat Plus,Sports,Fitness,1924,5,56,102356,4179,4.0,63,59,39,56
+2025-01-29,Smart Watch Neo,Electronics,Wearables,1813,10,55,89743,4023,3.7,69,77,75,55
+2025-01-29,Blender Max,Kitchen,Appliances,5083,0,36,182988,7036,3.6,66,43,58,36
+2025-01-29,Running Shoes X,Footwear,Sportswear,5421,10,51,248823,8643,4.2,83,73,59,51
+2025-01-29,Coffee Maker Lite,Kitchen,Appliances,1393,10,39,48894,5390,3.6,81,63,74,39
+2025-01-29,LED Desk Lamp,Home,Lighting,5995,5,64,364496,10623,4.0,89,88,84,64
+2025-01-29,Gaming Headset Z,Electronics,Accessories,3328,5,60,189696,2830,3.8,87,86,40,60
+2025-01-29,Water Bottle Steel,Sports,Hydration,1819,20,56,81491,2659,4.5,86,54,35,56
+2025-01-29,Wireless Mouse Pro,Electronics,Computing,2925,15,33,82046,10266,4.5,85,55,34,33
+2025-01-30,Air Fryer Pro,Kitchen,Appliances,1299,20,60,62352,4757,4.2,78,81,64,60
+2025-01-30,Yoga Mat Plus,Sports,Fitness,5817,10,75,392647,9999,3.7,80,49,34,75
+2025-01-30,Smart Watch Neo,Electronics,Wearables,3203,5,53,161271,7105,4.7,83,75,35,53
+2025-01-30,Blender Max,Kitchen,Appliances,3656,15,44,136734,9531,3.7,90,59,53,44
+2025-01-30,Running Shoes X,Footwear,Sportswear,5880,15,35,174930,10461,3.8,75,55,83,35
+2025-01-30,Coffee Maker Lite,Kitchen,Appliances,2814,5,35,93565,9896,4.5,68,84,65,35
+2025-01-30,LED Desk Lamp,Home,Lighting,2519,10,51,115622,6000,4.5,65,54,47,51
+2025-01-30,Gaming Headset Z,Electronics,Accessories,1471,10,33,43688,3171,3.7,66,60,71,33
+2025-01-30,Water Bottle Steel,Sports,Hydration,4537,15,58,223674,6260,4.8,77,44,32,57
+2025-01-30,Wireless Mouse Pro,Electronics,Computing,4470,5,68,288762,10100,4.2,78,64,50,68
+2025-01-31,Air Fryer Pro,Kitchen,Appliances,5279,15,37,166024,9345,4.4,66,61,84,37
+2025-01-31,Yoga Mat Plus,Sports,Fitness,3136,0,45,141120,11879,3.6,93,67,72,45
+2025-01-31,Smart Watch Neo,Electronics,Wearables,4469,0,37,165353,5648,4.1,64,41,51,37
+2025-01-31,Blender Max,Kitchen,Appliances,5976,5,51,289537,8985,4.1,81,51,53,51
+2025-01-31,Running Shoes X,Footwear,Sportswear,5466,5,18,93468,4324,3.7,63,85,81,18
+2025-01-31,Coffee Maker Lite,Kitchen,Appliances,3591,20,49,140767,3749,3.7,73,66,70,49
+2025-01-31,LED Desk Lamp,Home,Lighting,2905,15,49,120993,11259,4.2,94,45,68,49
+2025-01-31,Gaming Headset Z,Electronics,Accessories,2614,0,38,99332,4426,4.0,78,44,80,38
+2025-01-31,Water Bottle Steel,Sports,Hydration,5674,15,22,106103,2475,4.5,80,47,84,22
+2025-01-31,Wireless Mouse Pro,Electronics,Computing,5800,5,53,292030,8971,4.4,71,41,36,53
+2025-02-01,Air Fryer Pro,Kitchen,Appliances,5743,10,61,315290,3898,4.8,92,67,30,61
+2025-02-01,Yoga Mat Plus,Sports,Fitness,5910,20,45,212760,2687,3.7,63,69,35,45
+2025-02-01,Smart Watch Neo,Electronics,Wearables,2581,10,52,120790,9183,4.8,80,69,42,52
+2025-02-01,Blender Max,Kitchen,Appliances,2083,15,53,93839,3125,4.8,86,44,54,53
+2025-02-01,Running Shoes X,Footwear,Sportswear,3200,15,58,157760,8788,4.8,87,68,38,57
+2025-02-01,Coffee Maker Lite,Kitchen,Appliances,2195,5,54,112603,2645,4.4,70,41,76,54
+2025-02-01,LED Desk Lamp,Home,Lighting,2699,0,48,129552,11346,4.6,89,65,77,48
+2025-02-01,Gaming Headset Z,Electronics,Accessories,4148,15,16,56412,5831,3.6,92,60,64,16
+2025-02-01,Water Bottle Steel,Sports,Hydration,2515,5,40,95570,7433,4.3,82,87,51,40
+2025-02-01,Wireless Mouse Pro,Electronics,Computing,2474,10,19,42305,11122,3.5,75,73,31,19
+2025-02-02,Air Fryer Pro,Kitchen,Appliances,5378,15,36,164566,7779,3.8,67,62,32,36
+2025-02-02,Yoga Mat Plus,Sports,Fitness,1241,0,57,70737,7925,4.0,80,74,82,56
+2025-02-02,Smart Watch Neo,Electronics,Wearables,1748,15,60,89148,9374,3.8,92,45,56,60
+2025-02-02,Blender Max,Kitchen,Appliances,3254,10,60,175716,5674,4.0,73,75,82,60
+2025-02-02,Running Shoes X,Footwear,Sportswear,1639,10,69,101781,7626,4.0,84,79,53,69
+2025-02-02,Coffee Maker Lite,Kitchen,Appliances,5165,5,44,215897,3750,3.7,78,85,80,44
+2025-02-02,LED Desk Lamp,Home,Lighting,3746,5,62,220639,9230,4.2,78,86,81,62
+2025-02-02,Gaming Headset Z,Electronics,Accessories,5293,20,57,241360,4723,3.6,89,48,62,56
+2025-02-02,Water Bottle Steel,Sports,Hydration,4247,15,61,220206,3762,3.8,73,69,70,61
+2025-02-02,Wireless Mouse Pro,Electronics,Computing,867,15,25,18423,9804,4.3,75,68,78,25
+2025-02-03,Air Fryer Pro,Kitchen,Appliances,3279,15,51,142144,3348,3.8,62,83,62,51
+2025-02-03,Yoga Mat Plus,Sports,Fitness,2844,0,67,190548,5516,3.5,94,56,63,67
+2025-02-03,Smart Watch Neo,Electronics,Wearables,1527,0,33,50391,8748,3.7,80,77,49,33
+2025-02-03,Blender Max,Kitchen,Appliances,5400,20,48,207360,3846,4.2,87,43,51,48
+2025-02-03,Running Shoes X,Footwear,Sportswear,1378,15,51,59736,11984,3.8,65,61,54,51
+2025-02-03,Coffee Maker Lite,Kitchen,Appliances,4593,0,58,266394,8716,4.1,85,66,37,57
+2025-02-03,LED Desk Lamp,Home,Lighting,4251,5,28,113076,7410,4.1,79,88,42,28
+2025-02-03,Gaming Headset Z,Electronics,Accessories,5596,0,48,268608,3325,3.6,67,82,49,48
+2025-02-03,Water Bottle Steel,Sports,Hydration,5787,0,66,381942,3968,3.8,68,63,66,66
+2025-02-03,Wireless Mouse Pro,Electronics,Computing,5712,0,41,234192,2855,4.2,72,50,75,41
+2025-02-04,Air Fryer Pro,Kitchen,Appliances,5802,20,72,334195,8132,3.8,92,84,55,72
+2025-02-04,Yoga Mat Plus,Sports,Fitness,1787,5,39,66208,6615,4.6,82,69,74,39
+2025-02-04,Smart Watch Neo,Electronics,Wearables,1526,0,74,112924,6033,4.4,92,75,47,74
+2025-02-04,Blender Max,Kitchen,Appliances,2574,15,63,137837,2935,4.5,92,51,80,63
+2025-02-04,Running Shoes X,Footwear,Sportswear,3502,0,52,182104,6200,4.3,70,52,39,52
+2025-02-04,Coffee Maker Lite,Kitchen,Appliances,1709,5,56,90918,6658,4.7,87,42,49,56
+2025-02-04,LED Desk Lamp,Home,Lighting,3301,10,53,157457,2386,4.2,61,56,70,53
+2025-02-04,Gaming Headset Z,Electronics,Accessories,4893,15,75,311928,4466,4.1,74,65,66,75
+2025-02-04,Water Bottle Steel,Sports,Hydration,2036,0,47,95692,3431,4.3,87,60,83,47
+2025-02-04,Wireless Mouse Pro,Electronics,Computing,1930,5,27,49504,8563,4.4,68,77,59,27
+2025-02-05,Air Fryer Pro,Kitchen,Appliances,4059,15,57,196658,5243,4.7,82,79,40,56
+2025-02-05,Yoga Mat Plus,Sports,Fitness,2841,10,57,145743,3141,4.4,92,63,68,56
+2025-02-05,Smart Watch Neo,Electronics,Wearables,4161,15,33,116716,11783,4.5,79,58,58,33
+2025-02-05,Blender Max,Kitchen,Appliances,4073,15,46,159254,2913,4.3,90,66,40,46
+2025-02-05,Running Shoes X,Footwear,Sportswear,5712,0,64,365568,2929,4.6,71,77,30,64
+2025-02-05,Coffee Maker Lite,Kitchen,Appliances,1854,15,74,116616,7744,3.7,64,69,53,74
+2025-02-05,LED Desk Lamp,Home,Lighting,1242,10,48,53654,11370,3.8,86,81,80,48
+2025-02-05,Gaming Headset Z,Electronics,Accessories,2641,10,56,133106,8268,4.1,89,81,66,56
+2025-02-05,Water Bottle Steel,Sports,Hydration,2969,20,28,66505,8789,4.3,68,88,58,28
+2025-02-05,Wireless Mouse Pro,Electronics,Computing,4972,10,28,125294,7619,3.5,91,87,51,28
+2025-02-06,Air Fryer Pro,Kitchen,Appliances,4963,20,52,206460,10556,4.5,82,42,71,52
+2025-02-06,Yoga Mat Plus,Sports,Fitness,2177,20,32,55731,9730,3.7,80,85,73,32
+2025-02-06,Smart Watch Neo,Electronics,Wearables,2356,15,52,104135,5456,4.3,83,74,42,52
+2025-02-06,Blender Max,Kitchen,Appliances,1934,5,68,124936,8652,4.8,77,79,51,68
+2025-02-06,Running Shoes X,Footwear,Sportswear,4535,5,75,323118,4567,3.6,76,76,65,75
+2025-02-06,Coffee Maker Lite,Kitchen,Appliances,2709,10,45,109714,8207,4.3,93,50,83,45
+2025-02-06,LED Desk Lamp,Home,Lighting,2508,15,39,83140,3207,3.9,71,45,46,39
+2025-02-06,Gaming Headset Z,Electronics,Accessories,1682,10,51,77203,6761,4.8,91,45,84,51
+2025-02-06,Water Bottle Steel,Sports,Hydration,2410,0,22,53020,3946,4.2,76,53,56,22
+2025-02-06,Wireless Mouse Pro,Electronics,Computing,4977,15,79,334205,3970,4.3,63,46,74,79
+2025-02-07,Air Fryer Pro,Kitchen,Appliances,5058,0,29,146682,9742,4.6,64,52,76,28
+2025-02-07,Yoga Mat Plus,Sports,Fitness,2524,5,64,153459,6117,4.4,62,49,71,64
+2025-02-07,Smart Watch Neo,Electronics,Wearables,3167,20,67,169751,5735,4.5,89,69,76,67
+2025-02-07,Blender Max,Kitchen,Appliances,4034,10,42,152485,9537,4.4,66,69,36,42
+2025-02-07,Running Shoes X,Footwear,Sportswear,5474,0,68,372232,7668,3.5,67,44,38,68
+2025-02-07,Coffee Maker Lite,Kitchen,Appliances,3998,0,28,111944,5747,4.4,82,48,63,28
+2025-02-07,LED Desk Lamp,Home,Lighting,5837,15,39,193496,5426,4.2,73,52,74,39
+2025-02-07,Gaming Headset Z,Electronics,Accessories,2815,5,47,125689,4092,4.7,75,41,69,47
+2025-02-07,Water Bottle Steel,Sports,Hydration,3222,5,59,180593,9355,3.7,85,52,76,59
+2025-02-07,Wireless Mouse Pro,Electronics,Computing,3355,5,64,203984,4951,3.9,86,68,68,64
+2025-02-08,Air Fryer Pro,Kitchen,Appliances,2388,0,27,64476,4828,4.3,78,64,51,27
+2025-02-08,Yoga Mat Plus,Sports,Fitness,3184,5,53,160314,9651,4.3,79,71,79,53
+2025-02-08,Smart Watch Neo,Electronics,Wearables,1811,20,53,76786,8846,3.7,82,47,47,53
+2025-02-08,Blender Max,Kitchen,Appliances,1835,5,70,122027,6945,4.6,70,80,41,70
+2025-02-08,Running Shoes X,Footwear,Sportswear,5886,0,40,235440,5167,4.3,76,62,53,40
+2025-02-08,Coffee Maker Lite,Kitchen,Appliances,1617,0,50,80850,4437,3.8,88,67,40,50
+2025-02-08,LED Desk Lamp,Home,Lighting,5528,0,52,287456,7793,3.9,77,54,80,52
+2025-02-08,Gaming Headset Z,Electronics,Accessories,2988,10,34,91432,4224,4.0,71,76,46,34
+2025-02-08,Water Bottle Steel,Sports,Hydration,1270,5,61,73596,9094,3.5,82,60,50,61
+2025-02-08,Wireless Mouse Pro,Electronics,Computing,1034,20,51,42187,11120,3.9,70,56,33,51
+2025-02-09,Air Fryer Pro,Kitchen,Appliances,5326,0,40,213040,9122,4.3,76,76,83,40
+2025-02-09,Yoga Mat Plus,Sports,Fitness,3387,0,45,152415,3378,4.1,77,53,64,45
+2025-02-09,Smart Watch Neo,Electronics,Wearables,5768,15,45,220626,10588,4.0,61,55,38,45
+2025-02-09,Blender Max,Kitchen,Appliances,5224,10,54,253886,5893,4.6,92,75,74,54
+2025-02-09,Running Shoes X,Footwear,Sportswear,2678,20,48,102835,10967,4.3,77,42,57,48
+2025-02-09,Coffee Maker Lite,Kitchen,Appliances,1739,20,43,59821,2539,4.4,60,75,50,43
+2025-02-09,LED Desk Lamp,Home,Lighting,4123,10,41,152138,6213,4.5,69,85,42,41
+2025-02-09,Gaming Headset Z,Electronics,Accessories,4548,5,47,203068,10016,3.7,69,74,54,47
+2025-02-09,Water Bottle Steel,Sports,Hydration,1186,0,46,54556,10931,3.6,85,77,30,46
+2025-02-09,Wireless Mouse Pro,Electronics,Computing,4723,15,56,224814,4745,4.6,89,80,63,56
+2025-02-10,Air Fryer Pro,Kitchen,Appliances,4262,20,68,231852,4566,4.0,71,55,45,68
+2025-02-10,Yoga Mat Plus,Sports,Fitness,5379,20,37,159218,5718,4.6,68,71,40,37
+2025-02-10,Smart Watch Neo,Electronics,Wearables,5120,0,35,179200,10835,4.7,88,80,58,35
+2025-02-10,Blender Max,Kitchen,Appliances,3457,5,40,131366,5276,4.5,82,83,55,40
+2025-02-10,Running Shoes X,Footwear,Sportswear,1315,5,81,101189,8683,4.5,76,65,73,81
+2025-02-10,Coffee Maker Lite,Kitchen,Appliances,4070,5,56,216524,2025,4.6,78,50,42,56
+2025-02-10,LED Desk Lamp,Home,Lighting,4564,15,73,283196,10682,4.6,83,86,60,73
+2025-02-10,Gaming Headset Z,Electronics,Accessories,5581,5,34,180266,11968,4.7,79,80,40,34
+2025-02-10,Water Bottle Steel,Sports,Hydration,3095,0,50,154750,4783,4.2,80,85,34,50
+2025-02-10,Wireless Mouse Pro,Electronics,Computing,4445,5,58,244919,3932,4.1,62,69,35,57
+2025-02-11,Air Fryer Pro,Kitchen,Appliances,1916,15,54,87944,9888,4.8,72,89,40,54
+2025-02-11,Yoga Mat Plus,Sports,Fitness,5758,15,60,293658,11797,3.6,63,74,77,60
+2025-02-11,Smart Watch Neo,Electronics,Wearables,3543,10,50,159435,7258,4.1,77,58,52,50
+2025-02-11,Blender Max,Kitchen,Appliances,1669,5,54,85619,11475,4.6,88,73,46,54
+2025-02-11,Running Shoes X,Footwear,Sportswear,5514,10,56,277905,7366,4.0,67,69,61,56
+2025-02-11,Coffee Maker Lite,Kitchen,Appliances,2819,0,50,140950,9594,4.4,79,63,79,50
+2025-02-11,LED Desk Lamp,Home,Lighting,885,15,59,44382,6009,4.5,80,63,71,59
+2025-02-11,Gaming Headset Z,Electronics,Accessories,5767,5,46,252017,5638,4.4,86,61,66,46
+2025-02-11,Water Bottle Steel,Sports,Hydration,3736,20,81,242092,4787,3.9,86,73,80,81
+2025-02-11,Wireless Mouse Pro,Electronics,Computing,2976,0,46,136896,6422,4.0,79,59,82,46
+2025-02-12,Air Fryer Pro,Kitchen,Appliances,2429,10,48,104932,5929,4.0,77,84,81,48
+2025-02-12,Yoga Mat Plus,Sports,Fitness,5756,15,39,190811,2692,4.0,63,40,79,39
+2025-02-12,Smart Watch Neo,Electronics,Wearables,953,20,57,43456,3913,4.7,81,73,74,56
+2025-02-12,Blender Max,Kitchen,Appliances,2760,20,59,130272,9423,4.1,80,74,41,59
+2025-02-12,Running Shoes X,Footwear,Sportswear,3129,10,36,101379,9470,4.7,85,79,34,36
+2025-02-12,Coffee Maker Lite,Kitchen,Appliances,5300,15,30,135150,11065,4.7,88,47,70,30
+2025-02-12,LED Desk Lamp,Home,Lighting,2191,10,43,84791,6570,3.6,74,74,66,43
+2025-02-12,Gaming Headset Z,Electronics,Accessories,2190,10,51,100521,5607,4.0,63,42,63,51
+2025-02-12,Water Bottle Steel,Sports,Hydration,3280,20,41,107584,2580,4.0,65,76,39,41
+2025-02-12,Wireless Mouse Pro,Electronics,Computing,3527,20,25,70540,6307,3.8,81,86,33,25
+2025-02-13,Air Fryer Pro,Kitchen,Appliances,4859,15,60,247809,5240,4.6,82,89,59,60
+2025-02-13,Yoga Mat Plus,Sports,Fitness,3549,20,32,90854,8680,3.8,73,87,76,32
+2025-02-13,Smart Watch Neo,Electronics,Wearables,4611,20,32,118041,10463,3.6,90,81,39,32
+2025-02-13,Blender Max,Kitchen,Appliances,5338,5,52,263697,10712,3.8,91,49,51,52
+2025-02-13,Running Shoes X,Footwear,Sportswear,3352,0,26,87152,2152,3.7,60,64,80,26
+2025-02-13,Coffee Maker Lite,Kitchen,Appliances,4675,0,61,285175,9361,4.4,91,78,35,61
+2025-02-13,LED Desk Lamp,Home,Lighting,3872,5,59,217025,5664,3.5,88,48,42,59
+2025-02-13,Gaming Headset Z,Electronics,Accessories,5477,15,56,260705,11523,3.7,76,88,41,56
+2025-02-13,Water Bottle Steel,Sports,Hydration,2703,20,49,105957,9106,4.1,91,71,33,49
+2025-02-13,Wireless Mouse Pro,Electronics,Computing,1168,10,60,63072,10234,4.6,73,72,43,60
+2025-02-14,Air Fryer Pro,Kitchen,Appliances,5569,20,51,227215,4972,4.6,92,88,69,51
+2025-02-14,Yoga Mat Plus,Sports,Fitness,3186,20,36,91756,4240,3.9,75,45,69,36
+2025-02-14,Smart Watch Neo,Electronics,Wearables,5420,10,52,253656,9262,3.9,82,41,51,52
+2025-02-14,Blender Max,Kitchen,Appliances,1682,0,53,89146,6068,3.6,73,42,79,53
+2025-02-14,Running Shoes X,Footwear,Sportswear,3862,10,29,100798,9291,3.7,71,50,34,28
+2025-02-14,Coffee Maker Lite,Kitchen,Appliances,939,0,60,56340,4949,3.9,87,53,34,60
+2025-02-14,LED Desk Lamp,Home,Lighting,1687,10,39,59213,5560,4.4,64,41,59,39
+2025-02-14,Gaming Headset Z,Electronics,Accessories,3406,15,46,133174,8432,4.3,66,54,52,46
+2025-02-14,Water Bottle Steel,Sports,Hydration,2349,10,57,120503,8547,3.9,77,49,70,56
+2025-02-14,Wireless Mouse Pro,Electronics,Computing,5464,5,70,363356,7693,4.2,76,41,35,70
+2025-02-15,Air Fryer Pro,Kitchen,Appliances,2141,0,63,134883,5802,4.2,66,42,39,63
+2025-02-15,Yoga Mat Plus,Sports,Fitness,1007,5,65,62182,7755,4.2,81,65,72,65
+2025-02-15,Smart Watch Neo,Electronics,Wearables,4166,10,41,153725,5554,4.3,89,73,51,41
+2025-02-15,Blender Max,Kitchen,Appliances,2542,10,45,102951,5849,4.1,91,87,35,45
+2025-02-15,Running Shoes X,Footwear,Sportswear,5640,10,59,299484,9619,4.7,85,64,39,59
+2025-02-15,Coffee Maker Lite,Kitchen,Appliances,5716,10,26,133754,6757,4.7,80,61,65,26
+2025-02-15,LED Desk Lamp,Home,Lighting,1409,0,52,73268,6396,4.3,68,75,48,52
+2025-02-15,Gaming Headset Z,Electronics,Accessories,2720,5,42,108528,4093,3.7,91,45,77,42
+2025-02-15,Water Bottle Steel,Sports,Hydration,3504,5,49,163111,5490,4.7,80,64,57,49
+2025-02-15,Wireless Mouse Pro,Electronics,Computing,5262,15,47,210216,5676,4.2,86,65,48,47
+2025-02-16,Air Fryer Pro,Kitchen,Appliances,1659,0,79,131061,6017,4.4,82,86,61,79
+2025-02-16,Yoga Mat Plus,Sports,Fitness,5966,0,58,346028,8136,3.5,93,79,40,57
+2025-02-16,Smart Watch Neo,Electronics,Wearables,860,5,60,49020,6426,4.3,89,87,84,60
+2025-02-16,Blender Max,Kitchen,Appliances,2473,5,72,169153,11765,4.0,72,85,32,72
+2025-02-16,Running Shoes X,Footwear,Sportswear,2793,0,64,178752,8864,4.7,65,82,54,64
+2025-02-16,Coffee Maker Lite,Kitchen,Appliances,1094,0,38,41572,6027,4.0,68,57,50,38
+2025-02-16,LED Desk Lamp,Home,Lighting,3617,20,54,156254,10933,4.1,74,67,47,54
+2025-02-16,Gaming Headset Z,Electronics,Accessories,862,10,63,48875,9352,3.8,81,46,72,63
+2025-02-16,Water Bottle Steel,Sports,Hydration,5717,15,39,189518,5074,4.0,60,77,67,39
+2025-02-16,Wireless Mouse Pro,Electronics,Computing,5903,20,36,170006,2644,4.5,87,60,79,36
+2025-02-17,Air Fryer Pro,Kitchen,Appliances,3468,15,70,206346,2195,4.7,86,81,52,70
+2025-02-17,Yoga Mat Plus,Sports,Fitness,1076,20,46,39596,5927,4.5,91,71,34,46
+2025-02-17,Smart Watch Neo,Electronics,Wearables,2371,5,28,63068,9024,3.6,68,45,80,28
+2025-02-17,Blender Max,Kitchen,Appliances,2956,10,38,101095,9206,3.8,64,81,52,38
+2025-02-17,Running Shoes X,Footwear,Sportswear,3312,15,56,157651,8968,3.5,68,68,76,56
+2025-02-17,Coffee Maker Lite,Kitchen,Appliances,2500,20,59,118000,8815,4.4,82,84,46,59
+2025-02-17,LED Desk Lamp,Home,Lighting,4118,20,64,210841,6757,4.2,89,56,72,64
+2025-02-17,Gaming Headset Z,Electronics,Accessories,1298,5,63,77685,3673,4.3,93,48,71,63
+2025-02-17,Water Bottle Steel,Sports,Hydration,4411,10,29,115127,5453,4.7,67,82,38,28
+2025-02-17,Wireless Mouse Pro,Electronics,Computing,4160,0,41,170560,2018,4.4,60,68,79,41
+2025-02-18,Air Fryer Pro,Kitchen,Appliances,5036,0,58,292088,2204,4.4,88,78,53,57
+2025-02-18,Yoga Mat Plus,Sports,Fitness,4966,20,83,329742,11540,4.5,62,46,78,83
+2025-02-18,Smart Watch Neo,Electronics,Wearables,1620,0,49,79380,9374,4.7,91,65,45,49
+2025-02-18,Blender Max,Kitchen,Appliances,4693,15,38,151583,11288,4.2,60,68,51,38
+2025-02-18,Running Shoes X,Footwear,Sportswear,3272,10,44,129571,2717,4.2,78,41,70,44
+2025-02-18,Coffee Maker Lite,Kitchen,Appliances,5324,10,39,186872,6234,3.6,89,79,47,39
+2025-02-18,LED Desk Lamp,Home,Lighting,3282,5,62,193309,5406,3.6,77,41,42,62
+2025-02-18,Gaming Headset Z,Electronics,Accessories,3404,15,16,46294,8079,4.7,88,42,48,16
+2025-02-18,Water Bottle Steel,Sports,Hydration,802,10,36,25984,9739,4.4,90,82,61,36
+2025-02-18,Wireless Mouse Pro,Electronics,Computing,4106,5,71,276949,11277,4.6,68,67,60,71
+2025-02-19,Air Fryer Pro,Kitchen,Appliances,2305,20,25,46100,8457,4.5,91,56,64,25
+2025-02-19,Yoga Mat Plus,Sports,Fitness,843,20,77,51928,4618,3.7,68,67,35,77
+2025-02-19,Smart Watch Neo,Electronics,Wearables,3772,5,52,186336,3812,4.4,81,81,41,52
+2025-02-19,Blender Max,Kitchen,Appliances,2505,20,54,108216,5340,4.4,75,47,69,54
+2025-02-19,Running Shoes X,Footwear,Sportswear,5978,0,38,227164,3629,4.6,69,83,40,38
+2025-02-19,Coffee Maker Lite,Kitchen,Appliances,4078,0,39,159042,5801,4.4,71,65,52,39
+2025-02-19,LED Desk Lamp,Home,Lighting,5553,0,63,349839,6334,4.3,62,69,30,63
+2025-02-19,Gaming Headset Z,Electronics,Accessories,5051,20,33,133346,2922,4.3,81,49,68,33
+2025-02-19,Water Bottle Steel,Sports,Hydration,1774,15,55,82934,11555,4.5,79,51,62,55
+2025-02-19,Wireless Mouse Pro,Electronics,Computing,5287,0,49,259063,5748,3.8,65,60,61,49
+2025-02-20,Air Fryer Pro,Kitchen,Appliances,2340,15,51,101439,4103,3.8,88,46,69,51
+2025-02-20,Yoga Mat Plus,Sports,Fitness,4972,5,46,217276,4378,4.6,86,59,41,46
+2025-02-20,Smart Watch Neo,Electronics,Wearables,1098,20,61,53582,3474,4.8,94,70,44,61
+2025-02-20,Blender Max,Kitchen,Appliances,4271,20,59,201591,4828,3.7,70,60,80,59
+2025-02-20,Running Shoes X,Footwear,Sportswear,1749,10,34,53519,5839,4.3,94,42,45,34
+2025-02-20,Coffee Maker Lite,Kitchen,Appliances,5604,20,66,295891,2067,4.8,78,82,31,66
+2025-02-20,LED Desk Lamp,Home,Lighting,1372,10,74,91375,8039,4.0,93,67,34,74
+2025-02-20,Gaming Headset Z,Electronics,Accessories,4062,10,78,285152,6996,4.8,71,89,33,78
+2025-02-20,Water Bottle Steel,Sports,Hydration,3017,15,50,128222,6383,4.1,77,66,84,50
+2025-02-20,Wireless Mouse Pro,Electronics,Computing,1898,20,60,91104,11131,4.2,84,80,83,60
+2025-02-21,Air Fryer Pro,Kitchen,Appliances,3305,10,61,181444,8336,3.7,71,61,51,61
+2025-02-21,Yoga Mat Plus,Sports,Fitness,4625,0,58,268250,6749,3.6,92,82,44,57
+2025-02-21,Smart Watch Neo,Electronics,Wearables,5675,15,50,241187,5255,4.7,72,52,31,50
+2025-02-21,Blender Max,Kitchen,Appliances,1604,0,58,93032,4789,4.3,85,50,37,57
+2025-02-21,Running Shoes X,Footwear,Sportswear,3723,10,37,123975,6735,4.3,75,85,72,37
+2025-02-21,Coffee Maker Lite,Kitchen,Appliances,3366,20,47,126561,11146,4.7,86,62,53,47
+2025-02-21,LED Desk Lamp,Home,Lighting,4127,0,53,218731,8774,4.3,74,70,82,53
+2025-02-21,Gaming Headset Z,Electronics,Accessories,4605,15,62,242683,7750,4.0,76,81,59,62
+2025-02-21,Water Bottle Steel,Sports,Hydration,1724,10,71,110163,3094,3.8,93,59,79,71
+2025-02-21,Wireless Mouse Pro,Electronics,Computing,3575,5,53,180001,8628,4.2,67,79,73,53
+2025-02-22,Air Fryer Pro,Kitchen,Appliances,2903,10,31,80993,2861,3.5,69,78,57,31
+2025-02-22,Yoga Mat Plus,Sports,Fitness,1436,20,34,39059,6131,3.8,81,43,60,34
+2025-02-22,Smart Watch Neo,Electronics,Wearables,5061,5,57,274053,5373,4.5,64,77,39,56
+2025-02-22,Blender Max,Kitchen,Appliances,2247,10,62,125382,8059,3.9,82,56,30,62
+2025-02-22,Running Shoes X,Footwear,Sportswear,4118,5,32,125187,7208,4.2,71,79,46,32
+2025-02-22,Coffee Maker Lite,Kitchen,Appliances,2953,20,15,35436,5103,4.7,79,65,56,15
+2025-02-22,LED Desk Lamp,Home,Lighting,1644,0,5,8220,3234,4.4,94,87,47,5
+2025-02-22,Gaming Headset Z,Electronics,Accessories,3759,15,27,86269,2186,4.5,72,84,46,27
+2025-02-22,Water Bottle Steel,Sports,Hydration,2832,20,75,169920,3881,4.6,63,78,37,75
+2025-02-22,Wireless Mouse Pro,Electronics,Computing,3692,10,51,169462,5262,4.2,87,69,32,51
+2025-02-23,Air Fryer Pro,Kitchen,Appliances,2466,20,62,122313,8855,4.2,65,53,61,62
+2025-02-23,Yoga Mat Plus,Sports,Fitness,4482,5,47,200121,6482,4.7,71,88,60,47
+2025-02-23,Smart Watch Neo,Electronics,Wearables,1148,20,57,52348,6820,4.6,81,43,42,56
+2025-02-23,Blender Max,Kitchen,Appliances,3486,5,35,115909,10112,4.3,72,56,83,35
+2025-02-23,Running Shoes X,Footwear,Sportswear,3779,0,29,109591,5129,3.8,86,84,52,28
+2025-02-23,Coffee Maker Lite,Kitchen,Appliances,4557,10,53,217368,3134,4.7,87,64,45,53
+2025-02-23,LED Desk Lamp,Home,Lighting,1686,5,51,81686,5357,4.8,91,89,58,51
+2025-02-23,Gaming Headset Z,Electronics,Accessories,1917,5,74,134765,4828,4.4,89,60,77,74
+2025-02-23,Water Bottle Steel,Sports,Hydration,3783,10,61,207686,4761,4.5,82,69,62,61
+2025-02-23,Wireless Mouse Pro,Electronics,Computing,2648,15,53,119292,4696,4.6,60,83,64,53
+2025-02-24,Air Fryer Pro,Kitchen,Appliances,4591,0,43,197413,5308,3.6,67,47,56,43
+2025-02-24,Yoga Mat Plus,Sports,Fitness,2144,10,19,36662,5303,3.8,70,78,72,19
+2025-02-24,Smart Watch Neo,Electronics,Wearables,2304,5,60,131328,11783,4.0,67,80,78,60
+2025-02-24,Blender Max,Kitchen,Appliances,5122,10,77,354954,8999,3.5,61,79,48,77
+2025-02-24,Running Shoes X,Footwear,Sportswear,1670,15,75,106462,3051,4.6,63,61,55,75
+2025-02-24,Coffee Maker Lite,Kitchen,Appliances,4547,5,66,285096,2307,4.4,76,80,65,66
+2025-02-24,LED Desk Lamp,Home,Lighting,3547,10,33,105345,10039,3.9,87,40,71,33
+2025-02-24,Gaming Headset Z,Electronics,Accessories,5105,0,30,153150,8603,3.7,75,89,33,30
+2025-02-24,Water Bottle Steel,Sports,Hydration,4805,15,42,171538,2183,4.3,83,53,74,42
+2025-02-24,Wireless Mouse Pro,Electronics,Computing,1336,5,40,50768,7698,3.8,68,65,49,40
+2025-02-25,Air Fryer Pro,Kitchen,Appliances,3881,10,35,122251,8305,4.6,79,51,52,35
+2025-02-25,Yoga Mat Plus,Sports,Fitness,4982,0,76,378632,11461,3.7,89,42,50,76
+2025-02-25,Smart Watch Neo,Electronics,Wearables,5880,15,53,264894,4341,4.4,74,85,54,53
+2025-02-25,Blender Max,Kitchen,Appliances,1783,0,75,133725,4672,3.6,82,43,56,75
+2025-02-25,Running Shoes X,Footwear,Sportswear,1329,20,53,56349,11878,4.4,69,64,81,53
+2025-02-25,Coffee Maker Lite,Kitchen,Appliances,1808,10,69,112276,6668,4.5,88,44,38,69
+2025-02-25,LED Desk Lamp,Home,Lighting,3599,5,56,191466,6939,4.6,72,47,83,56
+2025-02-25,Gaming Headset Z,Electronics,Accessories,1531,5,81,117810,4504,3.5,80,86,63,81
+2025-02-25,Water Bottle Steel,Sports,Hydration,2387,0,43,102641,6647,4.8,60,40,71,43
+2025-02-25,Wireless Mouse Pro,Electronics,Computing,2249,20,78,140337,7454,4.6,94,84,45,78
+2025-02-26,Air Fryer Pro,Kitchen,Appliances,4558,0,33,150414,10848,4.6,73,84,35,33
+2025-02-26,Yoga Mat Plus,Sports,Fitness,5058,20,40,161856,5580,4.0,90,74,35,40
+2025-02-26,Smart Watch Neo,Electronics,Wearables,5877,5,55,307073,8169,4.7,85,59,35,55
+2025-02-26,Blender Max,Kitchen,Appliances,1509,10,79,107289,8289,3.9,73,53,42,79
+2025-02-26,Running Shoes X,Footwear,Sportswear,3750,15,54,172125,9658,3.6,94,56,64,54
+2025-02-26,Coffee Maker Lite,Kitchen,Appliances,2738,15,36,83782,3635,4.4,83,56,36,36
+2025-02-26,LED Desk Lamp,Home,Lighting,1873,0,73,136729,11343,4.4,74,86,33,73
+2025-02-26,Gaming Headset Z,Electronics,Accessories,1607,10,44,63637,6827,4.7,63,84,55,44
+2025-02-26,Water Bottle Steel,Sports,Hydration,2107,20,41,69109,6887,4.8,90,48,68,41
+2025-02-26,Wireless Mouse Pro,Electronics,Computing,2380,5,54,122094,5847,3.6,75,74,59,54
+2025-02-27,Air Fryer Pro,Kitchen,Appliances,2281,5,32,69342,9549,3.7,64,69,35,32
+2025-02-27,Yoga Mat Plus,Sports,Fitness,2775,5,18,47452,4541,3.6,88,62,35,18
+2025-02-27,Smart Watch Neo,Electronics,Wearables,1087,5,49,50599,2607,3.9,69,59,35,49
+2025-02-27,Blender Max,Kitchen,Appliances,3471,10,68,212425,5177,3.5,76,71,33,68
+2025-02-27,Running Shoes X,Footwear,Sportswear,5854,15,39,194060,2725,4.6,94,61,30,39
+2025-02-27,Coffee Maker Lite,Kitchen,Appliances,4851,10,40,174636,2972,4.8,62,48,41,40
+2025-02-27,LED Desk Lamp,Home,Lighting,1398,0,23,32154,11032,3.7,78,86,34,23
+2025-02-27,Gaming Headset Z,Electronics,Accessories,3731,0,40,149240,4971,3.7,84,49,43,40
+2025-02-27,Water Bottle Steel,Sports,Hydration,4361,0,33,143913,8782,3.5,73,74,81,33
+2025-02-27,Wireless Mouse Pro,Electronics,Computing,2895,5,69,189767,11993,3.8,70,60,50,69
+2025-02-28,Air Fryer Pro,Kitchen,Appliances,5580,0,57,318060,11169,3.6,70,55,78,56
+2025-02-28,Yoga Mat Plus,Sports,Fitness,2353,10,44,93178,3012,4.5,75,45,73,44
+2025-02-28,Smart Watch Neo,Electronics,Wearables,5386,5,24,122800,7877,4.2,86,66,44,24
+2025-02-28,Blender Max,Kitchen,Appliances,2702,15,72,165362,4059,4.0,76,56,65,72
+2025-02-28,Running Shoes X,Footwear,Sportswear,3828,20,52,159244,11117,3.9,73,49,36,52
+2025-02-28,Coffee Maker Lite,Kitchen,Appliances,3995,20,42,134232,8940,3.9,78,52,71,42
+2025-02-28,LED Desk Lamp,Home,Lighting,3892,20,40,124544,6933,4.0,61,61,61,40
+2025-02-28,Gaming Headset Z,Electronics,Accessories,1583,5,56,84215,9108,4.6,89,84,48,56
+2025-02-28,Water Bottle Steel,Sports,Hydration,5366,5,57,290568,8364,3.9,68,78,80,56
+2025-02-28,Wireless Mouse Pro,Electronics,Computing,4206,0,32,134592,10339,4.4,63,89,47,32
+2025-03-01,Air Fryer Pro,Kitchen,Appliances,4388,15,57,212598,2277,4.4,88,83,63,56
+2025-03-01,Yoga Mat Plus,Sports,Fitness,5513,15,81,379570,3170,3.7,90,74,50,81
+2025-03-01,Smart Watch Neo,Electronics,Wearables,3262,10,24,70459,8337,3.9,76,71,45,24
+2025-03-01,Blender Max,Kitchen,Appliances,815,20,19,12388,2926,4.4,60,50,84,19
+2025-03-01,Running Shoes X,Footwear,Sportswear,1140,15,58,56202,11099,3.6,92,50,57,57
+2025-03-01,Coffee Maker Lite,Kitchen,Appliances,1120,15,86,81872,7300,4.5,61,81,53,86
+2025-03-01,LED Desk Lamp,Home,Lighting,1931,10,63,109487,2011,3.7,86,88,83,63
+2025-03-01,Gaming Headset Z,Electronics,Accessories,3809,0,56,213304,4077,4.0,87,64,61,56
+2025-03-01,Water Bottle Steel,Sports,Hydration,5673,15,47,226636,3015,4.5,75,84,51,47
+2025-03-01,Wireless Mouse Pro,Electronics,Computing,984,15,56,46838,8897,3.6,75,73,61,56
+2025-03-02,Air Fryer Pro,Kitchen,Appliances,4472,5,35,148694,3881,3.5,91,73,77,35
+2025-03-02,Yoga Mat Plus,Sports,Fitness,5683,15,46,222205,6673,4.1,83,66,31,46
+2025-03-02,Smart Watch Neo,Electronics,Wearables,2494,0,52,129688,4172,3.5,80,49,75,52
+2025-03-02,Blender Max,Kitchen,Appliances,3693,20,64,189081,9825,3.7,93,51,51,64
+2025-03-02,Running Shoes X,Footwear,Sportswear,4931,20,53,209074,6535,4.5,92,84,65,53
+2025-03-02,Coffee Maker Lite,Kitchen,Appliances,5043,5,22,105398,10386,3.8,75,44,33,22
+2025-03-02,LED Desk Lamp,Home,Lighting,3508,10,46,145231,11103,4.7,82,53,36,46
+2025-03-02,Gaming Headset Z,Electronics,Accessories,4429,15,50,188232,10872,4.1,93,44,74,50
+2025-03-02,Water Bottle Steel,Sports,Hydration,4666,15,29,115016,4253,3.7,92,70,64,28
+2025-03-02,Wireless Mouse Pro,Electronics,Computing,1584,15,63,84823,7229,3.5,82,71,69,63
+2025-03-03,Air Fryer Pro,Kitchen,Appliances,4780,10,69,296838,9774,4.0,64,66,54,69
+2025-03-03,Yoga Mat Plus,Sports,Fitness,2070,0,53,109710,9754,4.6,83,50,58,53
+2025-03-03,Smart Watch Neo,Electronics,Wearables,3375,10,48,145800,5966,3.9,60,56,31,48
+2025-03-03,Blender Max,Kitchen,Appliances,4796,15,64,260902,9493,4.3,92,42,64,64
+2025-03-03,Running Shoes X,Footwear,Sportswear,3556,10,52,166420,5144,4.5,78,77,56,52
+2025-03-03,Coffee Maker Lite,Kitchen,Appliances,970,20,35,27160,8331,4.5,87,86,82,35
+2025-03-03,LED Desk Lamp,Home,Lighting,4725,10,45,191362,9977,4.2,85,62,72,45
+2025-03-03,Gaming Headset Z,Electronics,Accessories,1723,0,46,79258,6306,4.6,71,54,60,46
+2025-03-03,Water Bottle Steel,Sports,Hydration,4845,10,66,287793,4657,4.1,65,85,81,66
+2025-03-03,Wireless Mouse Pro,Electronics,Computing,5637,0,57,321309,10105,3.7,94,79,37,56
+2025-03-04,Air Fryer Pro,Kitchen,Appliances,2266,15,37,71265,6362,4.7,63,64,41,37
+2025-03-04,Yoga Mat Plus,Sports,Fitness,2693,15,70,160233,10106,4.7,83,55,42,70
+2025-03-04,Smart Watch Neo,Electronics,Wearables,1400,20,34,38080,11290,4.7,66,85,40,34
+2025-03-04,Blender Max,Kitchen,Appliances,4219,0,68,286892,9382,4.5,87,82,76,68
+2025-03-04,Running Shoes X,Footwear,Sportswear,1112,5,47,49650,9008,4.2,73,74,59,47
+2025-03-04,Coffee Maker Lite,Kitchen,Appliances,5243,0,70,367010,3773,4.0,88,84,44,70
+2025-03-04,LED Desk Lamp,Home,Lighting,5517,0,23,126891,8719,4.1,82,64,71,23
+2025-03-04,Gaming Headset Z,Electronics,Accessories,4390,0,29,127310,3192,3.7,66,87,79,28
+2025-03-04,Water Bottle Steel,Sports,Hydration,5637,10,37,187712,3211,3.7,76,43,72,37
+2025-03-04,Wireless Mouse Pro,Electronics,Computing,1301,5,44,54381,3283,4.2,89,89,38,44
+2025-03-05,Air Fryer Pro,Kitchen,Appliances,5186,20,37,153505,10947,3.6,86,71,43,37
+2025-03-05,Yoga Mat Plus,Sports,Fitness,5272,5,34,170285,7275,3.9,75,74,76,34
+2025-03-05,Smart Watch Neo,Electronics,Wearables,3902,15,57,189051,7037,4.5,63,69,59,56
+2025-03-05,Blender Max,Kitchen,Appliances,2101,10,85,160726,7185,4.3,89,75,47,85
+2025-03-05,Running Shoes X,Footwear,Sportswear,1492,20,56,66841,9933,4.7,92,49,66,56
+2025-03-05,Coffee Maker Lite,Kitchen,Appliances,2347,10,12,25347,5494,4.8,80,51,84,12
+2025-03-05,LED Desk Lamp,Home,Lighting,2364,0,21,49644,7811,3.5,77,42,36,21
+2025-03-05,Gaming Headset Z,Electronics,Accessories,2506,5,63,149984,11963,4.5,92,83,60,63
+2025-03-05,Water Bottle Steel,Sports,Hydration,5475,10,23,113332,8748,3.6,61,83,35,23
+2025-03-05,Wireless Mouse Pro,Electronics,Computing,2249,0,65,146185,8646,4.3,75,70,43,65
+2025-03-06,Air Fryer Pro,Kitchen,Appliances,2235,15,49,93087,11145,3.7,91,44,52,49
+2025-03-06,Yoga Mat Plus,Sports,Fitness,3924,10,44,155390,3353,4.2,74,46,58,44
+2025-03-06,Smart Watch Neo,Electronics,Wearables,2970,10,42,112266,10226,3.6,72,68,48,42
+2025-03-06,Blender Max,Kitchen,Appliances,3938,5,41,153385,10531,4.1,80,42,74,41
+2025-03-06,Running Shoes X,Footwear,Sportswear,3887,20,42,130603,8470,3.6,93,80,51,42
+2025-03-06,Coffee Maker Lite,Kitchen,Appliances,4279,0,45,192555,11643,3.6,75,85,37,45
+2025-03-06,LED Desk Lamp,Home,Lighting,3799,0,25,94975,4936,3.6,65,86,34,25
+2025-03-06,Gaming Headset Z,Electronics,Accessories,2250,0,51,114750,7649,4.7,73,67,47,51
+2025-03-06,Water Bottle Steel,Sports,Hydration,4315,0,47,202805,6206,4.0,91,59,57,47
+2025-03-06,Wireless Mouse Pro,Electronics,Computing,3328,15,43,121638,2813,4.8,62,65,37,43
+2025-03-07,Air Fryer Pro,Kitchen,Appliances,2341,20,45,84276,3141,4.3,77,41,39,45
+2025-03-07,Yoga Mat Plus,Sports,Fitness,2838,20,46,104438,6270,4.7,72,89,76,46
+2025-03-07,Smart Watch Neo,Electronics,Wearables,2584,10,43,100000,8681,4.6,83,80,30,43
+2025-03-07,Blender Max,Kitchen,Appliances,5458,10,63,309468,8869,3.7,78,57,41,63
+2025-03-07,Running Shoes X,Footwear,Sportswear,5334,15,75,340042,4962,4.2,85,74,63,75
+2025-03-07,Coffee Maker Lite,Kitchen,Appliances,926,10,23,19168,3191,4.2,72,62,83,23
+2025-03-07,LED Desk Lamp,Home,Lighting,4879,10,34,149297,11654,4.7,80,65,69,34
+2025-03-07,Gaming Headset Z,Electronics,Accessories,4980,0,45,224100,5560,3.8,82,62,72,45
+2025-03-07,Water Bottle Steel,Sports,Hydration,5814,20,72,334886,5296,4.4,82,66,74,72
+2025-03-07,Wireless Mouse Pro,Electronics,Computing,3787,5,77,277019,5159,4.5,66,89,77,77
+2025-03-08,Air Fryer Pro,Kitchen,Appliances,3187,10,63,180702,4156,4.0,80,65,69,63
+2025-03-08,Yoga Mat Plus,Sports,Fitness,2959,20,33,78117,8772,3.6,87,80,31,33
+2025-03-08,Smart Watch Neo,Electronics,Wearables,4953,5,62,291731,9164,4.5,70,53,31,62
+2025-03-08,Blender Max,Kitchen,Appliances,5666,20,47,213041,3378,3.6,78,57,78,47
+2025-03-08,Running Shoes X,Footwear,Sportswear,2707,20,44,95286,4048,3.8,93,64,45,44
+2025-03-08,Coffee Maker Lite,Kitchen,Appliances,2561,20,41,84000,6818,4.3,68,40,71,41
+2025-03-08,LED Desk Lamp,Home,Lighting,4786,0,37,177082,3462,4.0,84,84,35,37
+2025-03-08,Gaming Headset Z,Electronics,Accessories,2868,5,40,108984,9237,4.3,90,81,39,40
+2025-03-08,Water Bottle Steel,Sports,Hydration,2840,15,46,111044,6476,4.6,74,43,69,46
+2025-03-08,Wireless Mouse Pro,Electronics,Computing,3468,0,50,173400,8297,4.7,75,54,64,50
+2025-03-09,Air Fryer Pro,Kitchen,Appliances,5988,20,78,373651,5841,4.6,63,81,74,78
+2025-03-09,Yoga Mat Plus,Sports,Fitness,4060,0,61,247660,2066,3.6,68,69,82,61
+2025-03-09,Smart Watch Neo,Electronics,Wearables,3114,10,44,123314,2548,3.8,68,46,31,44
+2025-03-09,Blender Max,Kitchen,Appliances,2581,15,29,63621,2790,4.3,80,62,58,28
+2025-03-09,Running Shoes X,Footwear,Sportswear,4077,5,60,232389,8232,3.7,79,83,84,60
+2025-03-09,Coffee Maker Lite,Kitchen,Appliances,5104,20,61,249075,9297,4.8,87,81,84,61
+2025-03-09,LED Desk Lamp,Home,Lighting,2405,10,39,84415,4933,3.9,64,58,51,39
+2025-03-09,Gaming Headset Z,Electronics,Accessories,2650,15,23,51807,3490,4.2,75,63,70,23
+2025-03-09,Water Bottle Steel,Sports,Hydration,3171,0,66,209286,9088,4.4,66,69,48,66
+2025-03-09,Wireless Mouse Pro,Electronics,Computing,3152,0,38,119776,3167,4.1,67,57,57,38
+2025-03-10,Air Fryer Pro,Kitchen,Appliances,2377,0,61,144997,8691,3.7,83,57,52,61
+2025-03-10,Yoga Mat Plus,Sports,Fitness,2981,20,43,102546,5197,3.9,76,85,53,43
+2025-03-10,Smart Watch Neo,Electronics,Wearables,3178,5,37,111706,11499,4.5,73,65,77,37
+2025-03-10,Blender Max,Kitchen,Appliances,5461,10,34,167106,8322,4.7,91,61,36,34
+2025-03-10,Running Shoes X,Footwear,Sportswear,2444,0,38,92872,10181,3.8,62,84,69,38
+2025-03-10,Coffee Maker Lite,Kitchen,Appliances,3130,0,52,162760,3754,3.8,66,83,52,52
+2025-03-10,LED Desk Lamp,Home,Lighting,4424,10,52,207043,10881,4.0,76,74,77,52
+2025-03-10,Gaming Headset Z,Electronics,Accessories,2212,10,68,135374,2371,4.7,94,53,77,68
+2025-03-10,Water Bottle Steel,Sports,Hydration,4124,20,63,207849,7969,4.0,73,89,44,63
+2025-03-10,Wireless Mouse Pro,Electronics,Computing,3950,10,45,159975,8414,4.6,67,54,32,45
+2025-03-11,Air Fryer Pro,Kitchen,Appliances,5597,20,64,286566,10543,4.3,89,88,42,64
+2025-03-11,Yoga Mat Plus,Sports,Fitness,1824,5,39,67579,6174,4.0,88,73,47,39
+2025-03-11,Smart Watch Neo,Electronics,Wearables,3349,20,39,104488,6435,4.0,81,74,66,39
+2025-03-11,Blender Max,Kitchen,Appliances,3481,0,48,167088,11130,4.1,61,43,50,48
+2025-03-11,Running Shoes X,Footwear,Sportswear,2305,0,49,112945,3551,4.0,68,44,71,49
+2025-03-11,Coffee Maker Lite,Kitchen,Appliances,1064,10,50,47880,4659,4.2,81,61,63,50
+2025-03-11,LED Desk Lamp,Home,Lighting,2262,20,54,97718,8240,4.4,63,43,47,54
+2025-03-11,Gaming Headset Z,Electronics,Accessories,2506,10,52,117280,3567,4.4,65,55,63,52
+2025-03-11,Water Bottle Steel,Sports,Hydration,3721,0,68,253028,5020,4.5,76,54,47,68
+2025-03-11,Wireless Mouse Pro,Electronics,Computing,1718,10,43,66486,4809,4.2,63,42,36,43
+2025-03-12,Air Fryer Pro,Kitchen,Appliances,945,5,24,21546,2192,4.7,88,60,55,24
+2025-03-12,Yoga Mat Plus,Sports,Fitness,2669,0,57,152133,7882,3.9,65,59,53,56
+2025-03-12,Smart Watch Neo,Electronics,Wearables,4805,0,29,139345,7077,4.2,94,69,58,28
+2025-03-12,Blender Max,Kitchen,Appliances,4405,10,52,206154,4173,4.1,93,40,60,52
+2025-03-12,Running Shoes X,Footwear,Sportswear,2959,5,34,95575,6493,4.4,74,85,51,34
+2025-03-12,Coffee Maker Lite,Kitchen,Appliances,4834,10,34,147920,10107,3.5,60,60,58,34
+2025-03-12,LED Desk Lamp,Home,Lighting,3557,20,48,136588,11743,3.7,85,55,57,48
+2025-03-12,Gaming Headset Z,Electronics,Accessories,4960,15,30,126480,2585,4.2,76,62,36,30
+2025-03-12,Water Bottle Steel,Sports,Hydration,4811,20,35,134708,8957,4.7,73,53,45,35
+2025-03-12,Wireless Mouse Pro,Electronics,Computing,1126,10,34,34455,2001,3.7,76,76,41,34
+2025-03-13,Air Fryer Pro,Kitchen,Appliances,2661,0,35,93135,5129,3.6,77,45,74,35
+2025-03-13,Yoga Mat Plus,Sports,Fitness,3968,5,56,211097,8604,4.7,86,65,62,56
+2025-03-13,Smart Watch Neo,Electronics,Wearables,1347,20,50,53880,9776,4.2,75,53,58,50
+2025-03-13,Blender Max,Kitchen,Appliances,4025,10,78,282555,4460,3.7,82,46,32,78
+2025-03-13,Running Shoes X,Footwear,Sportswear,2879,5,78,213333,4565,4.0,66,65,63,78
+2025-03-13,Coffee Maker Lite,Kitchen,Appliances,1469,15,60,74919,8269,3.8,92,49,80,60
+2025-03-13,LED Desk Lamp,Home,Lighting,4878,5,60,278046,10911,4.4,74,66,57,60
+2025-03-13,Gaming Headset Z,Electronics,Accessories,4703,10,51,215867,6593,4.1,66,52,44,51
+2025-03-13,Water Bottle Steel,Sports,Hydration,4472,15,44,167252,4223,3.8,83,79,75,44
+2025-03-13,Wireless Mouse Pro,Electronics,Computing,5504,0,47,258688,6823,4.7,61,71,53,47
+2025-03-14,Air Fryer Pro,Kitchen,Appliances,4520,15,54,207468,2924,4.2,76,57,71,54
+2025-03-14,Yoga Mat Plus,Sports,Fitness,1295,15,74,81455,4148,4.3,76,48,43,74
+2025-03-14,Smart Watch Neo,Electronics,Wearables,4304,20,55,189376,7523,4.3,68,52,44,55
+2025-03-14,Blender Max,Kitchen,Appliances,954,15,47,38112,2996,4.6,85,65,54,47
+2025-03-14,Running Shoes X,Footwear,Sportswear,1977,5,60,112689,7599,4.1,61,72,71,60
+2025-03-14,Coffee Maker Lite,Kitchen,Appliances,1586,0,29,45994,10096,4.1,62,82,78,28
+2025-03-14,LED Desk Lamp,Home,Lighting,5462,5,67,347656,10052,4.3,75,63,83,67
+2025-03-14,Gaming Headset Z,Electronics,Accessories,1952,0,41,80032,9433,3.6,75,47,58,41
+2025-03-14,Water Bottle Steel,Sports,Hydration,5382,15,44,201286,11549,4.2,85,53,36,44
+2025-03-14,Wireless Mouse Pro,Electronics,Computing,5433,0,85,461805,2300,4.0,62,43,55,85
+2025-03-15,Air Fryer Pro,Kitchen,Appliances,3306,5,36,113065,11355,4.8,92,52,43,36
+2025-03-15,Yoga Mat Plus,Sports,Fitness,2551,5,11,26657,9067,4.1,61,81,38,11
+2025-03-15,Smart Watch Neo,Electronics,Wearables,1902,20,64,97382,7499,4.5,79,85,32,64
+2025-03-15,Blender Max,Kitchen,Appliances,4679,5,56,248922,11727,4.8,75,58,63,56
+2025-03-15,Running Shoes X,Footwear,Sportswear,4427,20,40,141664,2277,3.6,89,79,36,40
+2025-03-15,Coffee Maker Lite,Kitchen,Appliances,5375,10,104,503100,3797,3.8,66,44,40,104
+2025-03-15,LED Desk Lamp,Home,Lighting,942,10,57,48324,5364,3.7,62,68,35,56
+2025-03-15,Gaming Headset Z,Electronics,Accessories,5300,20,37,156880,11080,4.2,67,81,53,37
+2025-03-15,Water Bottle Steel,Sports,Hydration,3740,10,33,111078,5723,3.8,93,80,39,33
+2025-03-15,Wireless Mouse Pro,Electronics,Computing,5529,0,36,199044,11154,3.9,60,51,68,36
+2025-03-16,Air Fryer Pro,Kitchen,Appliances,5411,5,44,226179,9288,4.8,64,58,31,44
+2025-03-16,Yoga Mat Plus,Sports,Fitness,3883,0,33,128139,10521,4.3,67,50,41,33
+2025-03-16,Smart Watch Neo,Electronics,Wearables,5921,5,53,298122,3545,4.6,67,75,58,53
+2025-03-16,Blender Max,Kitchen,Appliances,1673,15,18,25596,7645,4.6,80,61,50,18
+2025-03-16,Running Shoes X,Footwear,Sportswear,3083,5,27,79078,7413,3.5,81,83,39,27
+2025-03-16,Coffee Maker Lite,Kitchen,Appliances,2269,5,37,79755,9557,4.2,83,49,37,37
+2025-03-16,LED Desk Lamp,Home,Lighting,869,20,44,30588,10992,4.1,87,71,41,44
+2025-03-16,Gaming Headset Z,Electronics,Accessories,2121,10,23,43904,7705,4.2,91,81,55,23
+2025-03-16,Water Bottle Steel,Sports,Hydration,824,10,43,31888,2231,4.6,88,70,36,43
+2025-03-16,Wireless Mouse Pro,Electronics,Computing,5184,20,69,286156,8401,3.8,92,76,63,69
+2025-03-17,Air Fryer Pro,Kitchen,Appliances,1395,10,44,55242,6497,3.9,83,47,59,44
+2025-03-17,Yoga Mat Plus,Sports,Fitness,1108,5,63,66313,10534,4.5,70,41,55,63
+2025-03-17,Smart Watch Neo,Electronics,Wearables,4035,0,73,294555,8353,4.1,78,62,83,73
+2025-03-17,Blender Max,Kitchen,Appliances,3680,15,62,193936,6887,4.0,67,57,77,62
+2025-03-17,Running Shoes X,Footwear,Sportswear,804,5,25,19095,7378,4.6,71,41,40,25
+2025-03-17,Coffee Maker Lite,Kitchen,Appliances,1931,15,54,88632,8737,4.0,81,51,31,54
+2025-03-17,LED Desk Lamp,Home,Lighting,5892,5,43,240688,9318,4.3,68,71,44,43
+2025-03-17,Gaming Headset Z,Electronics,Accessories,3844,20,64,196812,7636,3.7,72,80,82,64
+2025-03-17,Water Bottle Steel,Sports,Hydration,1454,5,80,110504,10446,4.3,80,45,30,80
+2025-03-17,Wireless Mouse Pro,Electronics,Computing,5795,10,45,234697,9787,4.3,82,68,50,45
+2025-03-18,Air Fryer Pro,Kitchen,Appliances,1808,10,44,71596,4682,3.8,63,79,45,44
+2025-03-18,Yoga Mat Plus,Sports,Fitness,5769,0,57,328833,10075,4.0,92,67,38,56
+2025-03-18,Smart Watch Neo,Electronics,Wearables,3371,20,46,124052,2098,3.7,93,52,68,46
+2025-03-18,Blender Max,Kitchen,Appliances,3465,20,61,169092,4415,4.6,70,81,67,61
+2025-03-18,Running Shoes X,Footwear,Sportswear,3683,20,68,200355,3223,4.7,69,82,44,68
+2025-03-18,Coffee Maker Lite,Kitchen,Appliances,3246,20,34,88291,10412,4.0,69,51,83,34
+2025-03-18,LED Desk Lamp,Home,Lighting,2851,5,48,130005,6310,4.0,62,48,82,48
+2025-03-18,Gaming Headset Z,Electronics,Accessories,5553,10,44,219898,6002,4.2,93,80,43,44
+2025-03-18,Water Bottle Steel,Sports,Hydration,1571,20,33,41474,5407,3.6,64,73,71,33
+2025-03-18,Wireless Mouse Pro,Electronics,Computing,3711,5,81,285561,9952,4.0,86,63,64,81
+2025-03-19,Air Fryer Pro,Kitchen,Appliances,4557,5,66,285723,10624,3.9,63,46,52,66
+2025-03-19,Yoga Mat Plus,Sports,Fitness,1697,0,40,67880,6567,3.7,90,86,60,40
+2025-03-19,Smart Watch Neo,Electronics,Wearables,4238,10,67,255551,6784,4.4,75,86,42,67
+2025-03-19,Blender Max,Kitchen,Appliances,5855,15,50,248837,5491,4.5,81,89,79,50
+2025-03-19,Running Shoes X,Footwear,Sportswear,1387,20,64,71014,9865,4.6,79,54,52,64
+2025-03-19,Coffee Maker Lite,Kitchen,Appliances,964,20,46,35475,5057,4.6,78,69,74,46
+2025-03-19,LED Desk Lamp,Home,Lighting,4957,15,64,269660,2364,3.8,63,73,31,64
+2025-03-19,Gaming Headset Z,Electronics,Accessories,4950,5,39,183397,5039,4.1,72,78,34,39
+2025-03-19,Water Bottle Steel,Sports,Hydration,4761,5,38,171872,4738,4.2,60,67,78,38
+2025-03-19,Wireless Mouse Pro,Electronics,Computing,4614,20,30,110736,9892,3.6,76,44,60,30
+2025-03-20,Air Fryer Pro,Kitchen,Appliances,3667,20,48,140812,5555,4.2,72,53,62,48
+2025-03-20,Yoga Mat Plus,Sports,Fitness,1245,20,60,59760,5626,4.2,69,70,35,60
+2025-03-20,Smart Watch Neo,Electronics,Wearables,2648,0,49,129752,10283,4.7,82,59,67,49
+2025-03-20,Blender Max,Kitchen,Appliances,1493,0,72,107496,10347,3.8,80,57,76,72
+2025-03-20,Running Shoes X,Footwear,Sportswear,5976,20,58,277286,3410,4.6,94,80,69,57
+2025-03-20,Coffee Maker Lite,Kitchen,Appliances,4194,0,62,260028,6332,4.2,79,83,74,62
+2025-03-20,LED Desk Lamp,Home,Lighting,4737,20,77,291799,7490,3.8,82,48,46,77
+2025-03-20,Gaming Headset Z,Electronics,Accessories,3356,5,46,146657,8354,4.4,79,48,46,46
+2025-03-20,Water Bottle Steel,Sports,Hydration,5178,5,77,378770,11744,3.8,77,46,46,77
+2025-03-20,Wireless Mouse Pro,Electronics,Computing,5324,15,42,190066,8117,3.7,89,51,33,42
+2025-03-21,Air Fryer Pro,Kitchen,Appliances,3575,20,53,151580,6109,3.9,78,51,47,53
+2025-03-21,Yoga Mat Plus,Sports,Fitness,1328,10,27,32270,7398,4.0,74,71,38,27
+2025-03-21,Smart Watch Neo,Electronics,Wearables,2747,15,55,128422,9378,3.9,79,40,50,55
+2025-03-21,Blender Max,Kitchen,Appliances,3280,20,70,183680,8784,3.8,91,78,51,70
+2025-03-21,Running Shoes X,Footwear,Sportswear,2703,10,64,155692,2988,3.8,67,70,63,64
+2025-03-21,Coffee Maker Lite,Kitchen,Appliances,5827,5,69,381959,8654,4.3,68,85,37,69
+2025-03-21,LED Desk Lamp,Home,Lighting,2078,10,61,114082,5539,3.9,87,51,31,61
+2025-03-21,Gaming Headset Z,Electronics,Accessories,3565,15,45,136361,5382,3.6,83,64,30,45
+2025-03-21,Water Bottle Steel,Sports,Hydration,1958,0,51,99858,8606,4.2,76,43,36,51
+2025-03-21,Wireless Mouse Pro,Electronics,Computing,1117,0,73,81541,3502,4.6,93,45,79,73
+2025-03-22,Air Fryer Pro,Kitchen,Appliances,4357,20,37,128967,4603,4.4,65,89,66,37
+2025-03-22,Yoga Mat Plus,Sports,Fitness,3061,5,60,174477,2508,3.8,76,46,42,60
+2025-03-22,Smart Watch Neo,Electronics,Wearables,4705,15,53,211960,7171,3.8,64,71,39,53
+2025-03-22,Blender Max,Kitchen,Appliances,4776,10,42,180532,5557,4.8,94,42,33,42
+2025-03-22,Running Shoes X,Footwear,Sportswear,5764,10,50,259380,5395,4.5,72,66,35,50
+2025-03-22,Coffee Maker Lite,Kitchen,Appliances,2567,0,23,59041,2354,4.3,61,52,81,23
+2025-03-22,LED Desk Lamp,Home,Lighting,865,15,53,38968,4581,3.9,62,74,41,53
+2025-03-22,Gaming Headset Z,Electronics,Accessories,1527,20,47,57415,3036,3.8,71,52,39,47
+2025-03-22,Water Bottle Steel,Sports,Hydration,4757,20,76,289225,4164,4.2,93,42,37,76
+2025-03-22,Wireless Mouse Pro,Electronics,Computing,3390,10,52,158652,6934,3.9,65,80,61,52
+2025-03-23,Air Fryer Pro,Kitchen,Appliances,3379,0,48,162192,8539,3.7,76,84,40,48
+2025-03-23,Yoga Mat Plus,Sports,Fitness,3173,20,40,101536,5990,3.6,65,77,31,40
+2025-03-23,Smart Watch Neo,Electronics,Wearables,4895,15,54,224680,5932,4.1,92,61,79,54
+2025-03-23,Blender Max,Kitchen,Appliances,2980,5,37,104747,7285,3.6,89,70,39,37
+2025-03-23,Running Shoes X,Footwear,Sportswear,5577,10,64,321235,8368,3.6,94,73,57,64
+2025-03-23,Coffee Maker Lite,Kitchen,Appliances,3197,20,59,150898,5535,3.6,87,78,74,59
+2025-03-23,LED Desk Lamp,Home,Lighting,3507,20,43,120640,4500,4.7,93,54,61,43
+2025-03-23,Gaming Headset Z,Electronics,Accessories,1150,10,40,41400,3928,4.7,63,42,58,40
+2025-03-23,Water Bottle Steel,Sports,Hydration,3219,10,61,176723,8878,4.0,61,66,65,61
+2025-03-23,Wireless Mouse Pro,Electronics,Computing,4842,5,57,262194,10638,3.7,90,67,68,56
+2025-03-24,Air Fryer Pro,Kitchen,Appliances,3744,0,57,213408,3074,3.6,69,44,38,56
+2025-03-24,Yoga Mat Plus,Sports,Fitness,4801,15,72,293821,2229,4.7,69,89,41,72
+2025-03-24,Smart Watch Neo,Electronics,Wearables,1301,20,44,45795,11197,4.6,80,84,55,44
+2025-03-24,Blender Max,Kitchen,Appliances,3102,15,16,42187,11799,3.9,74,55,30,16
+2025-03-24,Running Shoes X,Footwear,Sportswear,4527,20,56,202809,2524,4.1,80,41,83,56
+2025-03-24,Coffee Maker Lite,Kitchen,Appliances,3002,5,39,111224,10186,3.7,84,50,37,39
+2025-03-24,LED Desk Lamp,Home,Lighting,3623,0,29,105067,10391,4.7,80,59,37,28
+2025-03-24,Gaming Headset Z,Electronics,Accessories,4173,5,53,210110,2604,4.2,74,69,55,53
+2025-03-24,Water Bottle Steel,Sports,Hydration,2217,20,59,104642,9532,3.7,81,46,52,59
+2025-03-24,Wireless Mouse Pro,Electronics,Computing,4615,20,55,203060,2847,4.2,90,53,82,55
+2025-03-25,Air Fryer Pro,Kitchen,Appliances,3072,0,66,202752,6311,4.8,88,88,72,66
+2025-03-25,Yoga Mat Plus,Sports,Fitness,4091,20,24,78547,8697,3.8,86,85,31,24
+2025-03-25,Smart Watch Neo,Electronics,Wearables,3384,0,32,108288,11909,3.9,65,45,82,32
+2025-03-25,Blender Max,Kitchen,Appliances,2401,5,56,127733,5670,4.6,81,76,49,56
+2025-03-25,Running Shoes X,Footwear,Sportswear,5431,15,29,133874,8016,3.5,89,80,76,28
+2025-03-25,Coffee Maker Lite,Kitchen,Appliances,4941,10,65,289048,7335,3.8,85,52,30,65
+2025-03-25,LED Desk Lamp,Home,Lighting,3383,5,50,160692,4063,4.5,74,55,44,50
+2025-03-25,Gaming Headset Z,Electronics,Accessories,4865,10,74,324009,10014,4.1,63,82,34,74
+2025-03-25,Water Bottle Steel,Sports,Hydration,3241,10,34,99174,5787,3.8,85,72,66,34
+2025-03-25,Wireless Mouse Pro,Electronics,Computing,975,5,34,31492,8014,3.7,63,59,79,34
+2025-03-26,Air Fryer Pro,Kitchen,Appliances,1475,15,9,11283,2546,3.9,84,55,48,9
+2025-03-26,Yoga Mat Plus,Sports,Fitness,2400,20,77,147840,6402,3.7,63,75,81,77
+2025-03-26,Smart Watch Neo,Electronics,Wearables,5076,5,70,337554,11749,3.8,88,65,50,70
+2025-03-26,Blender Max,Kitchen,Appliances,5680,15,31,149668,6766,3.7,90,53,78,31
+2025-03-26,Running Shoes X,Footwear,Sportswear,900,5,66,56430,9226,4.4,79,41,80,66
+2025-03-26,Coffee Maker Lite,Kitchen,Appliances,4168,10,67,251330,9396,4.6,63,51,58,67
+2025-03-26,LED Desk Lamp,Home,Lighting,1069,15,66,59970,3129,4.1,76,44,74,66
+2025-03-26,Gaming Headset Z,Electronics,Accessories,1161,0,38,44118,11648,3.8,77,48,58,38
+2025-03-26,Water Bottle Steel,Sports,Hydration,3309,0,63,208467,5932,3.9,75,50,43,63
+2025-03-26,Wireless Mouse Pro,Electronics,Computing,2722,10,35,85743,6157,3.7,77,59,77,35
+2025-03-27,Air Fryer Pro,Kitchen,Appliances,3832,0,39,149448,5936,4.8,67,83,63,39
+2025-03-27,Yoga Mat Plus,Sports,Fitness,2724,20,37,80630,11118,3.9,91,72,32,37
+2025-03-27,Smart Watch Neo,Electronics,Wearables,1341,5,62,78984,4744,3.8,68,65,31,62
+2025-03-27,Blender Max,Kitchen,Appliances,4957,10,41,182913,6675,4.0,72,78,73,41
+2025-03-27,Running Shoes X,Footwear,Sportswear,3522,0,68,239496,7073,3.9,64,81,73,68
+2025-03-27,Coffee Maker Lite,Kitchen,Appliances,2153,10,63,122075,5454,4.0,89,46,35,63
+2025-03-27,LED Desk Lamp,Home,Lighting,1685,10,49,74308,8269,4.6,65,82,78,49
+2025-03-27,Gaming Headset Z,Electronics,Accessories,3657,15,52,161639,4032,4.4,70,78,63,52
+2025-03-27,Water Bottle Steel,Sports,Hydration,3505,20,45,126180,6651,4.6,89,89,72,45
+2025-03-27,Wireless Mouse Pro,Electronics,Computing,5150,20,51,210120,6987,4.3,93,86,38,51
+2025-03-28,Air Fryer Pro,Kitchen,Appliances,5176,10,71,330746,6423,4.4,86,79,61,71
+2025-03-28,Yoga Mat Plus,Sports,Fitness,2873,10,42,108599,2701,4.2,88,78,70,42
+2025-03-28,Smart Watch Neo,Electronics,Wearables,5124,10,32,147571,7191,3.8,87,44,78,32
+2025-03-28,Blender Max,Kitchen,Appliances,5028,20,43,172963,7738,4.1,77,89,82,43
+2025-03-28,Running Shoes X,Footwear,Sportswear,1597,5,19,28825,3392,4.6,83,57,56,19
+2025-03-28,Coffee Maker Lite,Kitchen,Appliances,1895,15,7,11275,8985,3.6,88,45,43,7
+2025-03-28,LED Desk Lamp,Home,Lighting,5669,5,83,447000,11493,4.7,66,79,79,83
+2025-03-28,Gaming Headset Z,Electronics,Accessories,1400,20,58,64960,8376,3.7,68,54,81,57
+2025-03-28,Water Bottle Steel,Sports,Hydration,1697,0,52,88244,7153,3.7,62,81,35,52
+2025-03-28,Wireless Mouse Pro,Electronics,Computing,3606,0,56,201936,7522,3.6,68,51,34,56
+2025-03-29,Air Fryer Pro,Kitchen,Appliances,5730,10,47,242379,6224,4.4,88,57,41,47
+2025-03-29,Yoga Mat Plus,Sports,Fitness,1132,0,22,24904,7249,3.5,75,87,53,22
+2025-03-29,Smart Watch Neo,Electronics,Wearables,3970,15,55,185597,11019,3.8,75,49,78,55
+2025-03-29,Blender Max,Kitchen,Appliances,2911,10,65,170293,10961,3.8,61,77,60,65
+2025-03-29,Running Shoes X,Footwear,Sportswear,2706,5,54,138817,3416,4.3,80,40,50,54
+2025-03-29,Coffee Maker Lite,Kitchen,Appliances,5178,5,36,177087,6474,4.0,87,84,46,36
+2025-03-29,LED Desk Lamp,Home,Lighting,3486,10,57,178831,4349,4.5,89,44,38,56
+2025-03-29,Gaming Headset Z,Electronics,Accessories,1908,10,58,99597,7188,3.6,61,63,60,57
+2025-03-29,Water Bottle Steel,Sports,Hydration,1472,20,50,58880,9690,3.7,61,79,70,50
+2025-03-29,Wireless Mouse Pro,Electronics,Computing,5434,10,55,268983,9169,4.4,80,44,81,55
+2025-03-30,Air Fryer Pro,Kitchen,Appliances,1740,20,48,66816,6133,4.4,84,41,61,48
+2025-03-30,Yoga Mat Plus,Sports,Fitness,1849,0,5,9245,10184,4.6,60,44,42,5
+2025-03-30,Smart Watch Neo,Electronics,Wearables,4779,0,53,253287,4017,4.3,72,86,83,53
+2025-03-30,Blender Max,Kitchen,Appliances,3234,15,39,107207,4868,4.7,64,63,69,39
+2025-03-30,Running Shoes X,Footwear,Sportswear,2581,0,52,134212,10699,4.6,71,52,74,52
+2025-03-30,Coffee Maker Lite,Kitchen,Appliances,1350,0,33,44550,11133,4.7,83,87,76,33
+2025-03-30,LED Desk Lamp,Home,Lighting,4043,0,56,226408,9135,4.5,64,61,45,56
+2025-03-30,Gaming Headset Z,Electronics,Accessories,5064,5,51,245350,9447,4.5,77,46,33,51
+2025-03-30,Water Bottle Steel,Sports,Hydration,3961,20,47,148933,11215,3.7,88,62,82,47
+2025-03-30,Wireless Mouse Pro,Electronics,Computing,5998,0,34,203932,3176,3.7,82,82,46,34
+2025-03-31,Air Fryer Pro,Kitchen,Appliances,3033,20,66,160142,9526,3.9,77,62,75,66
+2025-03-31,Yoga Mat Plus,Sports,Fitness,1896,0,45,85320,3951,4.1,76,58,56,45
+2025-03-31,Smart Watch Neo,Electronics,Wearables,5221,10,59,277235,9875,4.8,83,60,40,59
+2025-03-31,Blender Max,Kitchen,Appliances,1658,5,85,133883,10636,4.1,75,46,45,85
+2025-03-31,Running Shoes X,Footwear,Sportswear,5913,15,65,326693,10106,4.0,76,71,70,65
+2025-03-31,Coffee Maker Lite,Kitchen,Appliances,4855,10,31,135454,11281,3.6,62,59,35,31
+2025-03-31,LED Desk Lamp,Home,Lighting,4998,0,51,254898,4860,4.5,74,84,55,51
+2025-03-31,Gaming Headset Z,Electronics,Accessories,1944,5,50,92340,5253,3.7,90,63,60,50
+2025-03-31,Water Bottle Steel,Sports,Hydration,3465,0,26,90090,5513,3.8,86,64,61,26
+2025-03-31,Wireless Mouse Pro,Electronics,Computing,1137,5,51,55087,10328,4.4,67,59,83,51
